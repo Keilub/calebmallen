@@ -1,0 +1,113 @@
+#-------------------------------
+# General Site Settings
+baseURL = "http://www.calebmallen.com/"
+languageCode = "en-us"
+googleAnalytics = "" # G-9B8Q4NLLNL
+paginate = 9
+
+
+[params]
+  logo = "/images/logo.png"
+  author = "Caleb Allen"
+  description = "Storyteller & Illustrator"
+
+
+#-------------------------------
+# Main Menu
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "blog"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "contact"
+    url = "/contact/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "newsletter"
+    name = "newsletter"
+    url = "/newsletter/"
+    weight = 3
+
+  #-------------------------------
+  # Portfolio Settings
+  [params.portfolio]
+
+  [[params.gallery_item]]
+    image = "/images/gallery-image.jpg"
+    title = "Samantha Gades"
+    description = "Brown photo frame beside wall <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+
+  [[params.gallery_item]]
+    image = "/images/gallery-image.jpg"
+    title = "Paula Vermeulen"
+    description = "Gray mountain covered by mountain <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+
+  [[params.gallery_item]]
+    image = "/images/gallery-image.jpg"
+    title = "Bench Accounting"
+    description = "White wooden table near brown chair <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+
+  [[params.gallery_item]]
+    image = "/images/gallery-image.jpg"
+    title = "Nord Wood"
+    description = "White ceramic mug <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+
+  [[params.gallery_item]]
+    image = "/images/gallery-image.jpg"
+    title = "Luca Bravo"
+    description = "White ribs in a facade against a white sky <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+
+  [[params.gallery_item]]
+    image = "/images/gallery-image.jpg"
+    title = "Isaac Benhesed"
+    description = "Minimalist black coffee <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+
+  [[params.gallery_item]]
+    image = "/images/gallery-image.jpg"
+    title = "Water Journal"
+    description = "Water Journal is a bi-annual publication exploring the beauty and complexity of all things water <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+
+  [[params.gallery_item]]
+    image = "/images/gallery-image.jpg"
+    title = "Luca Bravo"
+    description = "Worms eye view of city buildings <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+
+  [[params.gallery_item]]
+    image = "/images/gallery-image.jpg"
+    title = "Books and Laptop"
+    description = "Silver laptop computer with two books on the top <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+
+  #-------------------------------
+  # Footer Settings
+  [[params.social]]
+    icon = "ion-logo-instagram"
+    link = "https://www.instagram.com/caleb.mallen/"
+    color = "#262626"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false
