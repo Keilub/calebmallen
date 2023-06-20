@@ -1,7 +1,8 @@
 ---
 permalink: /about/
-image: "/images/ChildCaleb.jpg"
+image: '/images/ChildCaleb-01.png'
 ---
+
 
 </br>
 <span style= "color:#C68975">

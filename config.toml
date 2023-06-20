@@ -1,13 +1,14 @@
 #-------------------------------
 # General Site Settings
-baseURL = "http://www.calebmallen.com/"
+baseURL = "http://calebmallen.com/"
 languageCode = "en-us"
-googleAnalytics = "" # G-9B8Q4NLLNL
+googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 9
 
 
 [params]
   logo = "/images/logo.png"
+  logo_dark = "/images/logo-dark.png"
   author = "Caleb Allen"
   description = "Storyteller & Illustrator"
 
@@ -17,7 +18,7 @@ paginate = 9
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "home"
+    name = "work"
     url = "/"
     weight = 1
 
@@ -40,7 +41,7 @@ paginate = 9
     weight = 4
 
   [[menu.main]]
-    identifier = "newsletter"
+    identifier = "Newsletter"
     name = "newsletter"
     url = "/newsletter/"
     weight = 3
@@ -50,56 +51,61 @@ paginate = 9
   [params.portfolio]
 
   [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Samantha Gades"
-    description = "Brown photo frame beside wall <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+    image = "/images/Fox-CalebAllen-Cover.jpg"
 
   [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Paula Vermeulen"
-    description = "Gray mountain covered by mountain <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+    image = "/images/Fox-CalebAllen-EndPages.jpg"
 
   [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Bench Accounting"
-    description = "White wooden table near brown chair <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+    image = "/images/Fox-CalebAllen-WhatsInside.jpg"
 
   [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Nord Wood"
-    description = "White ceramic mug <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+    image = "/images/Fox-CalebAllen-HungryDuck.jpg"
+   
+  [[params.gallery_item]]
+    image = "/images/Fox-CalebAllen-LonelyFlowers.jpg"
 
   [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Luca Bravo"
-    description = "White ribs in a facade against a white sky <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+    image = "/images/Fox-CalebAllen-OpenBox.jpg"
 
   [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Isaac Benhesed"
-    description = "Minimalist black coffee <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+    image = "/images/Fox-CalebAllen-GustofWind.jpg"
 
   [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Water Journal"
-    description = "Water Journal is a bi-annual publication exploring the beauty and complexity of all things water <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+    image = "/images/Fox-CalebAllen-CatchIt.jpg"
 
   [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Luca Bravo"
-    description = "Worms eye view of city buildings <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+    image = "/images/Fox-CalebAllen-JumpandReach.jpg"
 
-  [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Books and Laptop"
-    description = "Silver laptop computer with two books on the top <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
+    [[params.gallery_item]]
+    image = "/images/Fox-CalebAllen-LostbutOk.jpg"
+
+    [[params.gallery_item]]
+    image = "/images/Duck-CalebAllen-DUCK.jpg"
+
+    [[params.gallery_item]]
+    image = "/images/Duck-CalebAllen-AliveWater.jpg"
+
+    [[params.gallery_item]]
+    image = "/images/Rabbit-CalebAllen-RabbitWorry.jpg"
+
+    [[params.gallery_item]]
+    image = "/images/Rabbit-CalebAllen-Chirp.jpg"
+
+    [[params.gallery_item]]
+    image = "/images/Rabbit-Caleb-Allen-IveSlipped.jpg"
+
+    [[params.gallery_item]]
+    image = "/images/Bear-CalebAllen-MoonLept.jpg"
+
 
   #-------------------------------
   # Footer Settings
   [[params.social]]
     icon = "ion-logo-instagram"
     link = "https://www.instagram.com/caleb.mallen/"
-    color = "#262626"
+    color = "#000000"
+
 
 [markup]
   [markup.goldmark]

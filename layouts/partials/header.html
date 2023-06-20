@@ -6,20 +6,22 @@
 
         <div class="logo">
           <a class="logo__link" href="{{ .Site.BaseURL }}">
-            {{ if .Site.Params.logo }}
+            {{ if or (.Site.Params.logo) (.Site.Params.logo_dark) }}
               <img class="logo__image" src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}" alt="{{ .Site.Title }}">
+              <img class="logo__image__dark" src="{{ .Site.BaseURL }}{{ .Site.Params.logo_dark }}" alt="{{ .Site.Title }}">
             {{ else }}
               {{ .Site.Title }}
             {{ end }}
           </a>
         </div>
 
+  
         <nav class="main-nav">
           <div class="main-nav__box">
             <div class="nav__icon-close">
               <i class="ion ion-md-close"></i>
             </div>
-            <div class="nav__title"></div>
+            <div class="nav__title">Menu</div>
             <ul class="nav__list list-reset">
               {{ range.Site.Menus.main }}
               {{ $active := eq $.RelPermalink (.URL | relLangURL) }}
@@ -44,7 +46,5 @@
       </div>
     </div>
   </div>
-
 </header>
 <!-- end header -->
-

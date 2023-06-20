@@ -27,7 +27,23 @@
 </div>
 <!-- end archive -->
 
+
 {{ else }}
+
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-10 col-d-12">
+        <div class="hero__inner">
+          <h1 class="hero__title">{{.Title}}</h1>
+          <div class="hero__description">{{ .Description }}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
 
 <div class="container">
   <div class="row animate">
@@ -39,6 +55,8 @@
 </div>
 
 {{ partial "pagination.html" . }}
+
+{{ partial "section-subscribe.html" . }}
 
 {{ end }}
 
