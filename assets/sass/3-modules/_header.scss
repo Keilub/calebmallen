@@ -226,7 +226,9 @@
 
   @media only screen and (max-width: $desktop) {
     margin-left: auto;
-    font-size: 26px;
+    margin-right: auto;
+    font-family: $heading-font-family;
+    font-size: 24px;
 
     .nav__icon-menu {
       display: block;

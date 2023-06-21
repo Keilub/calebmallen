@@ -21,7 +21,6 @@
             <div class="nav__icon-close">
               <i class="ion ion-md-close"></i>
             </div>
-            <div class="nav__title">Menu</div>
             <ul class="nav__list list-reset">
               {{ range.Site.Menus.main }}
               {{ $active := eq $.RelPermalink (.URL | relLangURL) }}
@@ -40,7 +39,7 @@
         </nav>
 
         <div class="nav-button">
-          <i class="nav__icon nav__icon-menu ion ion-md-menu"></i>
+          <span class="nav__icon nav__icon-menu">menu</span>
         </div>
 
       </div>
