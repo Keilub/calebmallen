@@ -2,7 +2,7 @@
 # General Site Settings
 baseURL = "http://calebmallen.com/"
 languageCode = "en-us"
-googleAnalytics = "G-QP775XWP96"
+googleAnalytics = "G-9B8Q4NLLNL"
 paginate = 9
 
 
