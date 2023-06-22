@@ -3,6 +3,7 @@ title:  Three Ged's and a Rabbit | 02
 description: He found a lonely branch and made it his home.
 date:   2022-08-01 15:01:35 +0300
 image:  /images/wanderway02.jpg
+tags: [picture books,wanderway]
 ---
 ## Dear Peter Rabbit
 *by Alma Flor Ada, pictures by Leslie Tryon* <br>

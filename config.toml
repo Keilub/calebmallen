@@ -20,31 +20,37 @@ paginate = 9
     identifier = "home"
     name = "work"
     url = "/"
-    weight = 1
+    weight = 10
 
   [[menu.main]]
     identifier = "blog"
     name = "blog"
     url = "/posts/"
-    weight = 2
+    weight = 20
 
   [[menu.main]]
     identifier = "about"
     name = "about"
     url = "/about/"
-    weight = 5
+    weight = 50
 
   [[menu.main]]
     identifier = "contact"
     name = "contact"
     url = "/contact/"
-    weight = 4
+    weight = 40
 
   [[menu.main]]
     identifier = "Newsletter"
     name = "newsletter"
     url = "/newsletter/"
-    weight = 3
+    weight = 30
+
+  [[menu.main]]
+    identifier = "Tags"
+    name = ""
+    url = "/tags/"
+    weight = 1
 
   #-------------------------------
   # Portfolio Settings

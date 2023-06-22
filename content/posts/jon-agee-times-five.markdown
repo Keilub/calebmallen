@@ -3,6 +3,7 @@ title:  Jon Agee x Five | 04
 description: 5 books from Jon Agee
 date:   2022-10-03 15:01:35 +0300
 image:  '/images/wanderway04.jpg'
+tags: [picture books,wanderway]
 ---
 
 ## Dmitri the Astronaut

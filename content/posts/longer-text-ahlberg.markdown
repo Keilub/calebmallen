@@ -3,6 +3,7 @@ title:  Longer Text with Allan Ahlberg | 05
 description: A nostalgic trip with Allan Ahlberg
 date:   2023-01-16 15:01:35 +0300
 image:  '/images/wanderway05.jpg'
+tags: [picture books,wanderway]
 ---
 
 I remember my family reading me Allan Ahlberg books when a child, and I can certainly say I still enjoy his writing today. While reading his 3 books from the selection this week, I went on a google journey and found this interesting read on Mr. Ahlberg.
