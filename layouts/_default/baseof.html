@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
+
+
 {{ partial "head.html" . }}
 
 <body>
@@ -8,6 +10,29 @@
   {{ template "_internal/google_analytics.html" . }}
 
   {{ partial "header.html" . }}
+
+  <head>
+    <title>Menu</title>
+    <meta charset="UTF-8" />
+    <link href="./src/styles.css" type="text/css" />
+  </head>
+  
+  <body>
+    <div id="app">
+      <div class="menu">
+        <div class="menu-label">MENU</div>
+        <ul class="menu-links">
+          <li><a href="/">WORK</a></li>
+          <li><a href="/posts">BLOG</a></li>
+          <li><a href="/newsletter">NEWSLETTER</a></li>
+          <li><a href="/contact">CONTACT</a></li>
+          <li><a href="/about">ABOUT</a></li>
+        </ul>
+    </div>
+  
+    <script src="/assets/js/common.js">
+    </script>
+  </body>
 
   <!-- begin content -->
   <main class="content" aria-label="Content">

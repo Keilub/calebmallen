@@ -12,7 +12,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 
   @media only screen and (max-width: $mobile) {
-    font-size: 18px;
+    font-size: 16px;
+    color: #303030
   }
 }
 
@@ -62,7 +63,7 @@ blockquote {
   position: relative;
   margin: 40px 0;
   padding-left: 26px;
-  font-size: 24px;
+  font-size: 16px;
   line-height: 1.7;
   font-weight: 500;
   border-left: 4px solid var(--heading-font-color);

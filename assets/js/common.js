@@ -10,64 +10,6 @@ document.addEventListener("DOMContentLoaded", function() {
     btnScrollToTop = document.querySelector(".top");
 
 
-  /* =======================================================
-  // Menu + Theme Switcher + Toggle list view
-  ======================================================= */
-  menuOpenIcon.addEventListener("click", () => {
-    menuOpen();
-  });
-
-  menuCloseIcon.addEventListener("click", () => {
-    menuClose();
-  });
-
-  toggleTheme.addEventListener("click", () => {
-    darkMode();
-  });
-
-  if (portfolioViewButton) {
-    portfolioViewButton.addEventListener("click", () => {
-      viewToggle();
-    });
-  }
-
-  function menuOpen() {
-    menuList.classList.add("is-open");
-  }
-
-  function menuClose() {
-    menuList.classList.remove("is-open");
-  }
-
-
-  // Theme Switcher
-  function darkMode() {
-    if (html.classList.contains('dark-mode')) {
-      html.classList.remove('dark-mode');
-      localStorage.removeItem("theme");
-      document.documentElement.removeAttribute("dark");
-    } else {
-      html.classList.add('dark-mode');
-      localStorage.setItem("theme", "dark");
-      document.documentElement.setAttribute("dark", "");
-    }
-  }
-
-
-  // Toggle list view
-  function viewToggle() {
-    if (html.classList.contains('view-list')) {
-      html.classList.remove('view-list');
-      localStorage.removeItem("classView");
-      document.documentElement.removeAttribute("list");
-    } else {
-      html.classList.add('view-list');
-      localStorage.setItem("classView", "list");
-      document.documentElement.setAttribute("list", "");
-    }
-  }
-
-
   /* =======================
   // Responsive Videos
   ======================= */
@@ -143,4 +85,26 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   });
 
+});
+
+const menuLabel = document.querySelector(".menu-label");
+const menuLinks = document.querySelector(".menu-links");
+let menuLinkShow = false;
+
+menuLabel.addEventListener("click", () => {
+  console.log("a");
+  if (!menuLinkShow) {
+    menuLinks.classList.add("menu-links-show");
+    menuLinkShow = true;
+  } else {
+    menuLinks.classList.remove("menu-links-show");
+    menuLinkShow = false;
+  }
+});
+
+$(document).ready(function() {
+  $("#cssmenu li").on("click", function() {
+      $("#cssmenu li").removeClass("active");
+      $(this).addClass("active");
+  });
 });
