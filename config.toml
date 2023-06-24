@@ -110,7 +110,7 @@ paginate = 9
   [[params.social]]
     icon = "ion-logo-instagram"
     link = "https://www.instagram.com/caleb.mallen/"
-    color = "#000000"
+    color = "#C68975"
 
 
 [markup]
