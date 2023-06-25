@@ -3,7 +3,7 @@ title:  Maurice Sendak - A Creative Journey Through the Wild Imaginations of Chi
 description: Delving into Sendak's life and impact on children's literature.
 date:   2023-06-30 13:00:00 +0300
 image: /images/sendak.jpg
-tags: [biography, history]
+tags: [storyteller profile]
 ---
 
 > "You cannot write for children. They're much too complicated. You can only write books that are of interest to them." <br>

@@ -3,7 +3,7 @@ title:  Desmond, Peanuts & Anna | 10
 description: Can you find Desmond?
 date:   2023-03-13 15:01:35 +0300
 image: /images/wanderway10.jpg
-tags: [picture books,wanderway]
+tags: [wanderway]
 ---
 
 Not my favorite group of books but absolutely loved Disappearing Desmond, if you get a chance it is a must read!

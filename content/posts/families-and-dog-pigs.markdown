@@ -3,7 +3,7 @@ title:  Families and Dog Pigs | 3
 description: We went to the animal shelter.
 date:   2022-08-08 15:01:35 +0300
 image:  '/images/wanderway03.jpg'
-tags: [picture books,wanderway]
+tags: [wanderway]
 ---
 
 ## Norman Speak!

@@ -3,7 +3,7 @@ title:  Duck, Elephant and Lil Ki-Pat | 01
 description: This is the great Kapita Plain
 date:   2022-07-25 15:01:35 +0300
 image: /images/wanderway01.jpg
-tags: [picture books,wanderway]
+tags: [wanderway]
 ---
 
 ## Bringing the Rains to Kapiti Plain <br>

@@ -3,7 +3,7 @@ title:  Louella Mae & Jez Alborough | 06
 description: 4 books written by Jez Alborough and one by Karen Beaumont Alarcon
 date:   2023-01-23 15:01:35 +0300
 image:  '/images/wanderway06.jpg'
-tags: [picture books,wanderway]
+tags: [wanderway]
 ---
 When a majority of the weeks books a from one author I like to research them a little bit, so here is the Candlewick Profile for Jez Alborough. I really enjoyed what he said about ideas:
 

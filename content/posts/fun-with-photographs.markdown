@@ -3,7 +3,7 @@ title:  Fun with Photographs | 08
 description: Subverting my own expectations.
 date:   2023-02-13 15:01:35 +0300
 image:  '/images/wanderway08.jpg'
-tags: [picture books,wanderway]
+tags: [wanderway]
 ---
 An interesting week of books, first time we encounter a book with photographs as opposed to illustrations. Also, if you have read any of these books, feel free to leave a comment of your thoughts as well.
 
