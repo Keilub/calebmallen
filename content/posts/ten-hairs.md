@@ -30,7 +30,7 @@ Published 2015. This book is the first, but it's the same style and rhythm as th
 
 *By Hans Christian Andersen*
 *Retold by Cynthia Ryland, illustrated by Jen Corace*<br>
-"Now, this was quite a challenge to the tin soldier, for it is almost impossible to look heroic when one has just been swallowed by a. Big fish."
+"Now, this was quite a challenge to the tin soldier, for it is almost impossible to look heroic when one has just been swallowed by a Big fish."
 
 Published 2013. Stunning illustrations, great color, and visual interest. You can see much of this story's influence on popular animated films and other stories with these themes and imagery. It has been quite a while since I've read the original text; I will read them and see how this retelling differs. A fantastic, whimsical message to share with anyone willing to listen or read. After reading the original text, the charm and playfulness of the original story were lost with this retelling. Much of the events are the same, but the way Hans Christian Andersen writes and leads the reader through his world is masterful. Love the message, in reminding us of the enduring power of love and the strength found within the most unlikely heroes, just like a fish once said "Just keep swiming."
 
@@ -45,7 +45,7 @@ Published 2006. I like the straightforward illustrations; they have great color 
 
 *By CW Anderson*
 
-Published 1936. Fantastic technical illustrations, a lot to look at and get lost in. The story felt stale; the conflict that was in the story wasn't related to the main character and needed to be longer-lived. If anything, it could have been excluded to try and do something else with the story. The story feels very slice of life, if not a big perfect. I love reading and interacting with these older books and noticing the differences in how they tell a story and how picture books are structured/told. 
+Published 1936. Fantastic technical illustrations, a lot to look at and get lost in. The story felt stale; the conflict that was in the story wasn't related to the main character and needed to be longer-lived. If anything, it could have been excluded to try and do something else with the story. The story feels very slice of life, if not a bit too perfect. I love reading and interacting with these older books and noticing the differences in how they tell a story and how picture books are structured/told. 
 
 Thank you for reading with me,
 - Caleb
