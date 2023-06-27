@@ -10,7 +10,7 @@ tags: [wanderway]
 *By Lorie Halse Anderson and Ared Hoyt*<br>
 "It... worked! The hair stayed under control during spelling."
 
-Published 2009. I liked the whimsical nature of the images and the idea of the story the revolves around a head of hair that has a mind of its own, the message was good as well, but I felt the whimsical idea wasn't as fully embraced as it could have been if the story itself, the school setting, was a bit boring. You could capture the reader with a theme that fits the story better. But a great message about rules and how sometimes they are meant to be broken or looked at to see if they are pointlessly restrictive to individuality and self-expression. 
+Published 2009. I liked the whimsical nature of the images and the idea of the story that revolves around a head of hair that has a mind of its own, the message was good as well, but I felt the whimsical idea wasn't as fully embraced as it could have been in the story itself, the school setting, was a bit boring. You could capture the reader with a theme that fits the story better. But a great message about rules and how sometimes they are meant to be broken or looked at to see if they are pointlessly restrictive to individuality and self-expression. 
 
 ## Ten Hungry Pigs
 
@@ -24,7 +24,7 @@ Published 2016. A fun illustrative style and the story has a good rhythm with th
 *By Derek Anderson* <br>
 "ARGH, says five. And Six gives a TOOT!"
 
-Published 2015. This book is the first, but it's the same style and rhythm as the previous book. The story revolves around ten pigs who find themselves in need of a bath. As they dive into the bathtub, the pigs embark on a series of off the wall antics. The pigs give off big Minion vibes, which can be fun and silly; I can see a fun, whacky evening reading this to a child. The ending of this makes the other book make more sense, but it could've been done better in the other book, but it works in this book oddly enough. I did like the message of the book of enjoying time with an individual just as much as a gropu, but I'm wondering if I'm giving the book more meaning than intended. 
+Published 2015. This book is the first, but it's the same style and rhythm as the previous book. The story revolves around ten pigs who find themselves in need of a bath. As they dive into the bathtub, the pigs embark on a series of off the wall antics. The pigs give off big Minion vibes, which can be fun and silly; I can see a fun, whacky evening reading this to a child. The ending of this makes the other book make more sense, but it could've been done better in the other book, but it works in this book oddly enough. I did like the message of the book of enjoying time with an individual just as much as a group, but I'm wondering if I'm giving the book more meaning than intended. 
 
 ## The Steadfast Tin Solider
 
