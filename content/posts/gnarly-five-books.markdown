@@ -3,7 +3,7 @@ title:  Gnarly Five Books | 07
 description: Some incredible artwork and sweet stories.
 date:   2023-02-06 15:01:35 +0300
 image:  '/images/wanderway07.jpg'
-tags: [wanderway]
+tags: [weekly picture]
 ---
 A great collection of books this week. I really loved the artwork for Surf’s Up, and On A Magical Do-Nothing Day.
 

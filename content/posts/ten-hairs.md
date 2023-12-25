@@ -3,7 +3,7 @@ title:  Ten Steadfast Hairs | 11
 description: Reading through the ages with CW Anderson and Hans.
 date:   2023-06-25 13:00:00 +0300
 image: /images/wanderway11.jpg
-tags: [wanderway]
+tags: [weekly picture]
 ---
 
 ## The Hair of Zoe Fleefenbacher Goes to School
