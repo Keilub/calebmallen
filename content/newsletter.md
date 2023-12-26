@@ -26,7 +26,7 @@ The Wanderway will be kid-friendly. Or at least it will not be unfriendly. There
 
 The Wanderway is a free subscription and will remain that way for the foreseeable future. I have zero plans at the moment for anything paid as I’m working toward a consistent schedule of free content for the Newsletter.
 
-## Why the name?
+##### Why the name?
 
 > “To be away from home and yet find oneself everywhere at home; to see the world, to be at the centre of the world, and yet remain hidden from the world.” 
 

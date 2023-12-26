@@ -36,6 +36,7 @@ In addition to his books, Sendak also ventured into other creative endeavors. He
 
 <u><p style="color:#C68975;">[Tchaikovsky's ballet "The Nutcracker."](https://www.parentmap.com/article/sendak-stowell-and-the-history-of-pnbs-unique-nutcracker)</u></p> 
 
+![alt text](/images/sendak-01.jpg)
 
 ## Sendak's Work
 I want to present a noncomprehensive timeline of Sendak's books (the criteria for why I selected a book were books written and illustrated by Sendak) and my thoughts on those books. <br>
