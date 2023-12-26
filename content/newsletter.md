@@ -8,7 +8,7 @@ permalink: /newsletter/
 
 ## Hey Wanderer!
 
-I'm a storyteller and designer focusing on children's books that resonate with children and adults. The Wanderway is my Newsletter, better called a creative experiment for me. Currently, the Newsletter is focused on picture books I read and the history of picture books. At some point, it may also include any of the below or maybe even something not listed:
+The Wanderway is my Blog/Newsletter, better called a creative experiment for me. Currently, the Newsletter is focused on picture books I read and the history of picture books. At some point, it may also include any of the below or maybe even something not listed:
 
 - Illustrations sketches & Work’s in Process
 - Painting & Drawing Tutorials
