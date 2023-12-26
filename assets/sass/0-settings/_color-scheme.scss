@@ -1,12 +1,12 @@
 /* Color Scheme */
 
 :root {
-  --brand-color: #C68975;
+  --brand-color: #5ABB71;
   --white: #fff;
   --light-gray: #f0f0f0;
   --light-blue: #f8f6fb;
-  --blue-gray: #a2908a;
-  --gray: #9e9e9e;
+  --blue-gray: #66826d;
+  --gray: #5d635f;
   --dark: #262626;
   --dark-blue: #262626;
 
@@ -35,7 +35,7 @@
 }
 
 :root[dark] {
-  --brand-color: #C68975;
+  --brand-color: #5ABB71;
   --white: #fff;
   --light-gray: #f0f0f0;
   --gray: #9e9e9e;
@@ -54,7 +54,7 @@
 
   --button-color: var(--white);
   --button-background-color: var(--brand-color);
-  --button-background-hover: #C68975;
+  --button-background-hover: #5ABB71;
 
   --border-color: #262626;
   --border-color-alt: #262626;
