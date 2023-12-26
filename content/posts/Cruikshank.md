@@ -62,10 +62,12 @@ Miscellaneous Works:
 
 <u><p style="color:#C68975;">[Reference for further works by Cruikshank](https://victorianweb.org/art/illustration/cruikshank/index.html)</u></p>
 
+***
+
 As always thank you so much for reading, be sure to Subscribe to receive these post directly in your Email Inbox and to join the discussion over on SubStack
 
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
+<br>
 Thank you,
 
 -Caleb
