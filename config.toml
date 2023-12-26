@@ -3,7 +3,7 @@
 baseURL = "http://calebmallen.com/"
 languageCode = "en-us"
 googleAnalytics = "G-9B8Q4NLLNL"
-paginate = 9
+paginate = 12
 
 
 [params]
