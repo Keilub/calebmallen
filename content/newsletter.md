@@ -10,15 +10,15 @@ permalink: /newsletter/
 
 The Wanderway is my Blog/Newsletter, better called a creative experiment for me. Currently, the Newsletter is focused on picture books I read and the history of picture books. At some point, it may also include any of the below or maybe even something not listed:
 
-- Illustrations sketches & Work’s in Process
-- Painting & Drawing Tutorials
-- Books and things I am Reading
-- TV or Films that have inspired something in me
-- Art Prompts (have a few ideas at the moment)
-- Things I’ve noticed on walks, hikes or other activities
-- Random words
-- Poetry
-- or any other form of inspirations, this list is a working one and destined to change form
+<h style="color:#5ABB71;">•</h> Illustrations sketches & Work’s in Process<br>
+<h style="color:#5ABB71;">•</h>  Painting & Drawing Tutorials<br>
+<h style="color:#5ABB71;">•</h>  Books and things I am Reading<br>
+<h style="color:#5ABB71;">•</h>  TV or Films that have inspired something in me<br>
+<h style="color:#5ABB71;">•</h>  Art Prompts (have a few ideas at the moment)<br>
+<h style="color:#5ABB71;">•</h>  Things I’ve noticed on walks, hikes or other activities<br>
+<h style="color:#5ABB71;">•</h>  Random words<br>
+<h style="color:#5ABB71;">•</h>  Poetry<br>
+<h style="color:#5ABB71;">•</h>  or any other form of inspirations, this list is a working one and destined to change form<br>
 
 The Wanderway will be kid-friendly. Or at least it will not be unfriendly. There will probably be a lot of illustration, photos and focus on picture books and opportunities to make art. But it will be from a grown-up’s perspective and that may take me to media and mediums that could bore a child, or anyone really. But I imagine your kids potentially reading this newsletter/blog and I will always keep that in mind as I create a place that isn’t specifically for them, but will always have room for them.
 
