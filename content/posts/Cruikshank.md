@@ -14,7 +14,7 @@ The artist's commercial success was boosted by the emergence of a burgeoning mid
 
 The artist was also loved by children. The British novelist and author William Makepeace Thackeray even gave up buying sweets to purchase Cruikshank's prints. He once stated that the artist was "the friend of the young especially." A writer observed how he was drawn to George's illustrations as a child and how that fascination continued into adulthood." [his] hold on us – which is lifelong if we have first encountered him in childhood – and which ties the other qualities together is that his work is beautiful, at times sensuously so."
 
-<u><p style="color:#C68975;">https://www.jstor.org/stable/26409891?seq=1#page_scan_tab_contents</u></p>
+<a href="https://www.jstor.org/stable/26409891?seq=1#page_scan_tab_contents"><u>JSTOR</u></a>
 
 In 1823, as the fashion for satire diminished, George Cruikshank expanded his artistry to book illustration by releasing The Humourist. He then created illustrations for more than 800 books. Among the first books Cruikshank illustrated was the Collection of German Popular Stories by Wilhelm and Jacob Grimm, a significant work of the time. He also used his artistic skills to express his opposition to the Industrial Revolution. By 1835, Cruikshank had become the most influential graphic artist in England. He then launched his own publication, Cruikshank's Comic Almanack, where he displayed his illustrations alongside stories written by famous writers such as William Makepeace Thackeray.
 
@@ -24,15 +24,15 @@ Although George Cruikshank continued to publish his Almanack after the release o
 
 Cruikshank was a highly esteemed illustrator in England, known as the "Modern Hogarth" by critics for his exceptional talent and style. He is considered one of the greatest British illustrators ever for his outstanding skill at capturing the grotesque and the absurd. However, some critics also spoke ill of him. Unfortunately, in 1870, he suffered a stroke that caused his hands to tremble, and his artistic abilities began to decline. As a result, he received fewer commissions, and his financial situation worsened, leading him to face difficulties. Cruikshank's work was highly influential; his illustrations brought characters to life, shaped the medium's development, and continue to be admired by artists and collectors today.
 
-<u><p style="color:#C68975;">https://www.britannica.com/biography/George-Cruikshank</u></p>
+<a href="https://www.britannica.com/biography/George-Cruikshank"><u>Britannica</u></a>
 
-<u><p style="color:#C68975;">https://www.illustrationhistory.org/artists/george-cruikshank</u></p>
+<a href="https://www.illustrationhistory.org/artists/george-cruikshank"><u>Illustration History</u></a>
 
-<u><p style="color:#C68975;">https://cruikshankart.com/biography/</u></p>
+<a href="https://cruikshankart.com/biography/"><u>Cruikshankart.com</u></a>
 
-<u><p style="color:#C68975;">https://www.lambiek.net/artists/c/cruikshank_george.htm</u></p>
+<a href="https://www.lambiek.net/artists/c/cruikshank_george.htm"><u>Lambiek</u></a>
 
-<u><p style="color:#C68975;">https://spartacus-educational.com/PRcruikshank.htm</u></p>
+<a href="https://spartacus-educational.com/PRcruikshank.htm"><u>Spartacus Educational</u></a>
 
 ## (Some of) George Cruikshank’s Work
 

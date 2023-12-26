@@ -12,19 +12,19 @@ Edward Lear was far more than the father of Nonsense. He was a naturalist, a rem
 
 On May 12, 1812, Edward Lear was born in Highgate, England, a suburb of London, the last of twenty-one children and the youngest to survive. Lear's ill health plagued him from a young age. He experienced frequent epileptic seizures, bronchitis, asthma, and bouts of depression he referred to as "The Morbids."
 
-<u><p style="color:#C68975;">https://forreadingaddicts.co.uk/authors/edward-lear-king-nonsense-many-things/</u></p>
+<a href="https://forreadingaddicts.co.uk/authors/edward-lear-king-nonsense-many-things/"><u>For Reading Addicts</u></a>
 
 At the age of fifteen, Lear began his career as an artist. His father, who was of Danish origin and a stockbroker, was sent to debtor's prison when he was thirteen, forcing his sister to continue raising him. This caused the young Lear to earn a living for himself. Despite the challenging circumstances, Lear's talent was quickly recognized. In 1832, he was hired by the London Zoological Society to create illustrations of birds. His illustrations were highly regarded, and he was favorably compared to Audubon. Around the same time, the Earl of Derby invited him to reside at his estate.
 
-<u><p style="color:#C68975;">https://poets.org/poet/edward-lear</u></p>
+<a href="https://poets.org/poet/edward-lear"><u>Poets.org</u></a>
 
-<u><p style="color:#C68975;">https://www.edwardlearsociety.org/</u></p>
+<a href="https://www.edwardlearsociety.org/"><u>Edward Lear Society</u></a>
 
 Lear's connection with the 13th Earl of Derby led him to Knowsley, where he was commissioned to paint birds and mammals from the Earl's private menagerie. During his time there, Lear's relationship with the Earl became less formal, and he entertained the Earl's children. This was where Lear created the first few rhymes and illustrations to entertain the Earl's children, which would be published in A Book of Nonsense years later. 
 
 When Lear reached age twenty-five in 1837, his health began to deteriorate. The harsh English winters became unbearable for him due to his chronic asthma and bronchitis, making it difficult to withstand damp weather. So Lear moved to Rome, where funding and introductions from the Earl helped him establish himself as a landscape painter. In addition to his respiratory issues, Lear's eyesight began deteriorating, forcing him to shift from drawing birds to landscapes. 
 
-<u><p style="color:#C68975;">https://www.illustrationhistory.org/artists/edward-lear</u></p>
+<a href="https://www.illustrationhistory.org/artists/edward-lear"><u>Illustration History</u></a>
 
 In 1846, when Lear finally shared his silly side with the world, it resulted in the immediate and resounding success of the published volume, A Book of Nonsense. He dedicated this first collection of rhymes to the Earl's great-grandchildren, grand-nephews, and grand-nieces. The book's verse focused on oddballs and outsiders. For any child brought up with strict Victorian morality that was common for the time, the disobedience of these poems must have been very refreshing. 
 
@@ -54,13 +54,14 @@ Despite being a talented painter, Edward Lear truly belonged to the world of chi
 
 Although he proposed to the same woman twice, who was 46 years younger, his proposals were rejected, and he never got married. Instead, Lear relied on a circle of friends and correspondents for companionship. His Albanian Suliot chef, Giorgis, was a faithful friend, but Lear said he could have been a better chef. Later in life, Lear's trusted companion in Sanremo was his cat, Foss, who was laid to rest with a ceremony in the garden of Villa Tennyson after passing away in 1886. Lear's health declined significantly, and he eventually passed away due to heart disease in 1888 at Villa Tennyson. Unfortunately, none of his many lifelong friends could attend his funeral, as reported by Dr. Hassall's wife, Lear's physician, making it a lonely affair.
 
-<u><p style="color:#C68975;">https://www.poetryfoundation.org/poets/edward-lear</u></p>
 
-<u><p style="color:#C68975;">https://www.newyorker.com/magazine/2018/04/23/the-sense-beneath-edward-lears-nonsense</u></p>
+<a href="https://www.poetryfoundation.org/poets/edward-lear"><u>Poetry Foundation</u></a>
 
-<u><p style="color:#C68975;">https://www.theguardian.com/books/2021/jan/31/how-edward-lears-artistic-genius-led-to-the-owl-and-the-pussycat</u></p>
+<a href="https://www.newyorker.com/magazine/2018/04/23/the-sense-beneath-edward-lears-nonsense"><u>New Yorker | The Sense Beneath Edward Lears Nonsense</u></a>
 
-<u><p style="color:#C68975;">https://www.nytimes.com/1995/05/21/books/a-life-of-nonsense.html</u></p>
+<a href="https://www.theguardian.com/books/2021/jan/31/how-edward-lears-artistic-genius-led-to-the-owl-and-the-pussycat"><u>The Guardian | How Edward Lears Artistic Genius led to the Owl and the Pussycat</u></a>
+
+<a href="https://www.nytimes.com/1995/05/21/books/a-life-of-nonsense.html"><u>NY Times | A Life of Nonsense</u></a>
 
 ## Lear's Work
 
