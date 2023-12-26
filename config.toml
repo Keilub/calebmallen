@@ -101,10 +101,7 @@ paginate = 9
 
   #-------------------------------
   # Footer Settings
-  [[params.social]]
-    icon = "ion-logo-instagram"
-    link = "https://www.instagram.com/caleb.mallen/"
-    color = "#C68975"
+
 
 
 [markup]
