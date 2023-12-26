@@ -28,8 +28,8 @@ The Wanderway is a free subscription and will remain that way for the foreseeabl
 
 ##### Why the name?
 
-> “To be away from home and yet find oneself everywhere at home; to see the world, to be at the centre of the world, and yet remain hidden from the world.” 
-
+> “To be away from home and yet find oneself everywhere at home; to see the world, to be at the centre of the world, and yet remain hidden from the world.” <br>
+<br>
 -Charles Baudelaire
 
 I’m a big fan of the books The Wander Society as well as The Art of Noticing and the themes they talk about. I have also always enjoyed sharing my inspirations and wandering wherever they take me as I passionately dive deep into new hobbies and interest. The name was solidified when I was running a new route one evening and came across the sign you see in the newsletter’s avatar image, the wanderway sign.
