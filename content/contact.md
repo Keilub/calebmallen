@@ -1,6 +1,7 @@
 ---
 title: 
 ---
+<h2 style="color: #5ABB71;text-align:center;">Let's Collaborate!</h2>
 
 </br>
 <p style="text-align: center;" >For all inquiries (or just to say hello) please email me <a href="mailto: caleballen@hey.com"><u>here</u></a>. I look forward to hearing from you.</a>
