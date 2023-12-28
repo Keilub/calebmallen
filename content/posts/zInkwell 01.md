@@ -91,15 +91,19 @@ As someone that always idealized the idea of solo backpacking but has been slowl
 <h1 style="color: #5ABB71;">5.</h1>
 
 #### Dinosaurs!
-https://www.goodreads.com/book/show/57693406-the-kaiju-preservation-society?ref=nav_sb_ss_1_
 
-So we’re the monster police, too?” I said to Tom.
-“Correct,” he replied. “The only real question is, who are the monsters?”
-“They ask that question in every monster movie, you know. It’s an actual trope.”
-“I know,” Tom said. “What does it say about us that it’s relevant every single time they ask it?
+
+>So we’re the monster police, too?” I said to Tom.<br>
+“Correct,” he replied. “The only real question is, who are the monsters?”<br>
+“They ask that question in every monster movie, you know. It’s an actual trope.”<br>
+“I know,” Tom said. “What does it say about us that it’s relevant every single time they ask it?<br>
 John Scalzi, The Kaiju Preservation Society
 
-https://www.nationalgeographic.com/science/article/young-tyrannosaurs-last-meal-gives-new-insight-dinosaur-gut-contents
+<a href="https://www.goodreads.com/book/show/57693406-the-kaiju-preservation-society?ref=nav_sb_ss_1_" style="color: #5ABB71"><u>The Kaiju Preservation Society by <i>John Scalzi</i></u></a>
+
+<a href="https://www.nationalgeographic.com/science/article/young-tyrannosaurs-last-meal-gives-new-insight-dinosaur-gut-contents" style="color: #5ABB71"><u>National Geographic | Young Tyrannosaurs Last Meal Gives New Insight</u></a>
+
+It's funny how things work out sometimes. I tried reading The Kaiju Preservation Society early 2023, but I jumped off it fairly quickly. Not because I didn't enjoy it, but something just didn't resonate with me. I had my eyes on another book. But a few weeks ago I picked up the book again form my library and absolutly breezed thru the book in a day. The book personally resonated with me in a deeper way. The main character had lost their job, just as I had at that time. It was a simple feel good book that managed to hit me in a deep way right as life was hitting me in the face with some anxiety. Shortly after finishing this book, I came across an interesting article. It was about a new discovery for dinosaurs, made from the contents of a dinosaur's stomach.
 
 <h1 style="color: #5ABB71;">6.</h1>
 
