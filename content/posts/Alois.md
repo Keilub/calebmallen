@@ -12,11 +12,11 @@ In the late 18th century, a Bavarian playwright named Alois Senefelder accidenta
 
 At the time Chromolithography, quickly found a variety of uses in art and commerce. Portraitists, illustrators, and famous press artists embraced lithography and chromolithography as a means of multiplying drawings. Many of the era's most significant artists used it as a tool for graphic invention, leading to a boom in picture book design and cultural impact as the likes of Edward Lear, Heinrich Hoffmann, and Randolph Caldecott utilized the new processes with the old to usher in what we know as the modern picture book.
 
-<a href="https://www.britannica.com/technology/lithography"><u>Britannica | Lithography</u></a>
+<a href="https://www.britannica.com/technology/lithography" style="color: #5ABB71"><u>Britannica | Lithography</u></a>
 
-<a href="https://www.metmuseum.org/toah/hd/lith/hd_lith.htm"><u>Met Museum | Lith</u></a>
+<a href="https://www.metmuseum.org/toah/hd/lith/hd_lith.htm" style="color: #5ABB71"><u>Met Museum | Lith</u></a>
 
-<a href="https://www.tate.org.uk/art/art-terms/l/lithography"><u>Tate.org | Lithography</u></a>
+<a href="https://www.tate.org.uk/art/art-terms/l/lithography" style="color: #5ABB71"><u>Tate.org | Lithography</u></a>
 
 
 ![alt text](/images/paging03-01.jpg)
@@ -33,13 +33,13 @@ Baxter's innovative process received a royal patent in 1835 (Patent No. 6916 –
 
 Despite his technical excellence and the general popularity of his prints, Baxter's business was never profitable. This was due to his laborious process and perfectionism, which caused him to miss many commission deadlines. Baxter was declared bankrupt in 1865 and died in 1867 after an accident involving a horse omnibus. It is estimated that he printed over twenty million prints during his career.
 
-<a href="https://historyofinformation.com/detail.php?id=3197"><u>History of Info</u></a>
+<a href="https://historyofinformation.com/detail.php?id=3197" style="color: #5ABB71"><u>History of Info</u></a>
 
-<a href="https://www.historyofinformation.com/detail.php?id=3201"><u>History of Info</u></a>
+<a href="https://www.historyofinformation.com/detail.php?id=3201" style="color: #5ABB71"><u>History of Info</u></a>
 
-<a href="https://www.georgebaxter.com/baxter-the-chromolithographic-conte"><u>George Baxter | Chromolithographic</u></a>
+<a href="https://www.georgebaxter.com/baxter-the-chromolithographic-conte" style="color: #5ABB71"><u>George Baxter | Chromolithographic</u></a>
 
-<a href="https://www.hsm.ox.ac.uk/baxter-prints"><u>HSM | Baxter Prints</u></a>
+<a href="https://www.hsm.ox.ac.uk/baxter-prints" style="color: #5ABB71"><u>HSM | Baxter Prints</u></a>
 
 ![alt text](/images/paging03-02.jpg)
 <br>
@@ -60,22 +60,22 @@ After finishing with the Society, Knight continued to pursue his interest in pic
 
 Charles Knight was a remarkable person who helped to make a monumental contribution to publishing inexpensive literature and was an influential author.
 
-<a href="https://spartacus-educational.com/JknightC.htm"><u>Spartacus Educational</u></a>
+<a href="https://spartacus-educational.com/JknightC.htm" style="color: #5ABB71"><u>Spartacus Educational</u></a>
 
-<a href="https://www.lindahall.org/about/news/scientist-of-the-day/charles-knight-publisher"><u>Linda Hall | Charles Knight Publisher</u></a>
+<a href="https://www.lindahall.org/about/news/scientist-of-the-day/charles-knight-publisher" style="color: #5ABB71"><u>Linda Hall | Charles Knight Publisher</u></a>
 
-<a href="https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Knight%2C%20Charles%2C%201791%2D1873"><u>Online Books</u></a>
+<a href="https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Knight%2C%20Charles%2C%201791%2D1873" style="color: #5ABB71"><u>Online Books</u></a>
 
-<a href="https://www.historyofinformation.com/detail.php?id=3308"><u>History of Info</u></a>
+<a href="https://www.historyofinformation.com/detail.php?id=3308" style="color: #5ABB71"><u>History of Info</u></a>
 
-<a href="https://onlinebooks.library.upenn.edu/webbin/serial?id=pennymagsduk"><u>Online Books | Penny Mags</u></a>
+<a href="https://onlinebooks.library.upenn.edu/webbin/serial?id=pennymagsduk" style="color: #5ABB71"><u>Online Books | Penny Mags</u></a>
 
 ***
 
 As always thank you so much for reading, be sure to Subscribe to receive these post directly in your Email Inbox and to join the discussion over on SubStack
 
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
+<br>
 Thank you,
 
 -Caleb

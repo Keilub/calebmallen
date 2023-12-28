@@ -8,8 +8,7 @@
     transform: translateY(-10px);
 
     .article__title a {
-      text-decoration: underline;
-      text-decoration-color: var(--link-color-hover);
+      text-decoration-color: #262626;
     }
   }
 }
@@ -55,11 +54,11 @@
 
 .article__title {
   margin-bottom: 12px;
-  font-size: 24px;
+  font-size: 25px;
 
   a {
-    text-decoration: underline;
     text-decoration-color: transparent;
+    color: #262626
 
     &:hover {
       color: var(--heading-font-color);
@@ -69,6 +68,6 @@
 
 .article__excerpt {
   margin-bottom: 0;
-  font-size: 16px;
+  font-size: 20px;
   color: var(--text-alt-color);
 }

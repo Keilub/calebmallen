@@ -10,16 +10,17 @@ body {
   background-color: var(--background-color);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 
   @media only screen and (max-width: $mobile) {
-    font-size: 16px;
+    font-size: 20px;
     color: #303030
   }
 }
 
 *::selection {
   color: var(--white);
-  background-color: #5ABB71;
+  background-color: #262626;
 }
 
 h1,
@@ -63,7 +64,7 @@ blockquote {
   position: relative;
   margin: 40px 0;
   padding-left: 26px;
-  font-size: 16px;
+  font-size: 22px;
   line-height: 1.7;
   font-weight: 500;
   border-left: 4px solid #5ABB71;
@@ -84,7 +85,7 @@ blockquote {
   }
 
   @media only screen and (max-width: $mobile) {
-    font-size: 16px;
+    font-size: 22px;
   }
 }
 
@@ -125,8 +126,7 @@ img,
       transition: $global-transition;
 
       &:hover {
-        color: var(--link-color);
-        border-color: #5ABB71;
+        color: #5ABB71;
       }
     }
   
@@ -138,11 +138,11 @@ img,
 
 a {
   text-decoration: none;
-  color: var(--link-color);
+  color: #262626;
   transition: $global-transition;
 
   &:hover {
-    color: var(--link-color-hover);
+    color: #262626;
   }
 }
 
