@@ -25,11 +25,24 @@ I'm a storyteller and illustrator working in graphite, marker, oil pastel, and d
 
 <br>
 <h5>What I'm reading</h5>
-The Book of the New Sun by <i>Gene Wolfe</i>, The Locked Tombe Series by <i>Tamsyn Muir</i>, and Holes by <i>Louis Sachar</i><br>
+
+- The Village by <i>Tom Cox</i>
+- The Book of the New Sun by <i>Gene Wolfe</i>
+- The Locked Tombe Series by <i>Tamsyn Muir</i>
+- Holes by <i>Louis Sachar</i><br>
  <br>
 <h5>What I'm listening to</h5>
-Hello from the Magic Tavern, You are a Storyteller, and Creative Pep Talk<br>
+
+- Hello from the Magic Tavern
+- Oologies
+- Shelved by Genre
+- You are a Storyteller
+- Creative Pep Talk<br>
  <br>
 <h5>What I'm watching</h5>
-The Bear, The Good Place, and Columbo<br>
+
+- The Bear
+- The Good Place
+- Severence
+- Columbo<br>
 <br>
