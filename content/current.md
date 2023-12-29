@@ -13,5 +13,8 @@ Other things I enjoy are word puzzles and feeling like a detective. I enjoy buil
 
 I also enjoy bird watching. I like mechanical watch making and learning about geology from an enthusiastic friend.
 
-Thank you for stopping by,
+Thank you for stopping by,<br>
+<br>
 -Caleb
+
+Oh! How could I forget, we also are parents to two lovely pets, a <a href="/maple/" style="color: #5ABB71"><u>dog</u></a> and a <a href="/sushi/" style="color: #5ABB71"><u>cat</u></a>!
