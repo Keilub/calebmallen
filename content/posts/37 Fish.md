@@ -36,9 +36,10 @@ Published 2013. The artwork is speechlessly unique. I enjoy the organic and raw 
 
 Published 2019. A great book to read to those right before they begin their first day of school. It's a simple retelling of school activities for a new student. The art was dense with details, texture, and color. It was a little overwhelming at times. But the flow of the book is nice and leads the reader along the journey well. 
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

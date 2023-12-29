@@ -36,9 +36,10 @@ Published 2016. Lovely artwork that is a joy to view. It is varied and engaging 
 
 Published 2015. I love the texture and layers of the illustrations and the marks made. The compositions are nicely laid out, with variety throughout the book. The text is a bit wordy, but this would be an excellent book for those getting ready to go to School for the first time. <h style="color:#5ABB71;">★</h>
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

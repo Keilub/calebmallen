@@ -36,9 +36,10 @@ Published 1997. Same lovely artwork and a few great moments where the illustrati
 
 Published 1987. Very consistent work from Jim Arnosky, same superb artwork and gentle stories. I just realized that these stories feel like 'Planet Earth' were children's books. They so beautifully capture a simple moment in time, even if these books don't always catch every truth, as a moment of conflict or more significant stakes could make these exciting stories, but that would also change what Arnosky desired to achieve with these books.
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

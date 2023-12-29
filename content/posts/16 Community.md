@@ -36,9 +36,10 @@ Published 2021. Fantastic illustrations that pair well with the text. I loved th
 
 Published 2015. The style of illustrations wasn't for me, but it was varied, and the compositions were nice. The color was unique and gave a nostalgic feel that I did enjoy. The text was simple and easy to read, but I'm still determining how I feel about the story. It was creative, but it could've also been pushed further. A bit more conflict could've seen this story flourish, or making it end in an unpredictable place would help. It was still an enjoyable read, but I wanted a little more from it overall.
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

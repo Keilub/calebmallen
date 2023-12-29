@@ -36,9 +36,10 @@ Published 2016. The cover instantly reminded me of The Story of the Little Mole 
 
 Published 2005. The artwork is fantastic, that old nostalgic style that is enjoyable and done with great skill. The story was very wordy, and the text could be edited down quite a bit, but this could be an excellent book to transition kids into chapter books, so what do I know? The overall message is very well told, and in the end, I was satisfied with how it ended, even if it was a bit predictable. 
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

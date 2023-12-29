@@ -36,9 +36,10 @@ Published 2015. The artwork at the start was very dark, almost too dark to see, 
 
 Published 2016. The art gives this book a vintage feeling, and I would've guessed this book was way older than the publication date. The art is friendly and soft and fits the story's theme well. The story is terrific. I love this message; it reminds me very much of Monster's University and the message that sometimes you can't do what you dream. However, if you keep at it, you can still find that true dream and purpose around that original dream, which is a more vital message and story than the overused, 'you can do anything.'
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

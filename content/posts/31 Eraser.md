@@ -36,9 +36,10 @@ Published 1999. I loved the abstract feel of these illustrations and the texture
 
 Published 2002. I liked the looseness of the drawings and their simplicity paired with the complexity of the marks and strokes of loosely mixed colors and paints. I liked the story until the end and wished it would've had more to say or something at all to say about dreams that would've fit with the rest of the text. 
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

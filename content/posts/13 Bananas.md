@@ -36,9 +36,9 @@ Published 2014. The artwork has great charm and style, very interesting and fun 
 
 Published 2015. I enjoyed the art, and the story is simply a tale of a road trip to a new place; the Yeti pun is used a lot; I wish it would've been used more creatively.
 
-Want these post directly sent to your Email Inbox? Subscribe below, it helps me out alot!
+***
 
-Thank you,
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
 -Caleb
     

@@ -36,9 +36,10 @@ Published 2022. I had already read this book. I typically enjoy Mac Barnett's bo
 
 Published 2019. I enjoyed the subtleness of the illustration style in this book. The subdued vintage colors pair perfectly with the gritty grey/black washes and textures. The story weaves together for both adults and children. It takes us on a whimsical journey that starts with the child's constant questions. We end with a perfect line I won't spoil. A perfect bedtime tale. 
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

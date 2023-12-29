@@ -36,9 +36,10 @@ Published 2016. The artwork has excellent color and texture and is very impactfu
 
 Published 2014. More lovely artwork from Austin; I especially enjoyed the junk yard's textures and bits and bobs. Not a strong message in this book, but it is a sweet tale of cleaning up and working and then creating and playing.
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

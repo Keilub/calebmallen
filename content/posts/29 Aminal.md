@@ -36,9 +36,10 @@ Published 1972. I enjoyed the lovely linework and the selective use of color. In
 
 Published 1980. I love the monotone color with the splashes of green for the leprechaun's hat. The story reads like an old fairytale, which I enjoyed. The message is nicely told, and the ending is one I did not see coming as I was reading it. It did make a fool of the child with little resolve or growth beyond that particular characteristic, so I'm curious to see how a child would receive this book. 
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

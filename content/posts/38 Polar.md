@@ -36,9 +36,10 @@ Published 2009. More fantastic artwork from Ron Barrett. The illustrations pack 
 
 Published 2008. Lovely and funny artwork. This book pushes the box with the expression 'Show Don't Tell'. The words tell the reader to NOT do something. The illustrations show us why. Sometimes it works, and sometimes it's questionable. But I love the respect of the viewer. It lets us decipher the why and dive deeper into the text of why not to do something. It is a very fun and silly book. <h style="color:#5ABB71;">★</h>
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

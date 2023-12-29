@@ -36,9 +36,10 @@ Published 2012. I also enjoy Brad Sneed's work, so I enjoy this book. This story
 
 Published 2009. The artwork is charming and fits the theme and story exceptionally well. The story itself is absurd, delightful, and funny. There is a message here without directly telling you, which is lovely and makes for a perfect bedtime read. <h style="color:#5ABB71;">★</h>
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

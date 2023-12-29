@@ -32,9 +32,9 @@ Published 2009, Cute illustrations also show some of the artist's mark-making. I
 
 Published 2007, Another story based on a true story, but has a feel of fiction that adds to the charm of this story. At points, it is ridiculous and unbelievable and a stretch of the truth, but the mindset of it being a true story makes it a fun dynamic to read about. I didn't enjoy how the story made the main character, at times, a vehicle of amusement for the rest of the townsfolk and that it was never addressed or any growth in that aspect, even if they were trying to be kind. The message is good that we need a community, and a community with a big heart can accomplish a lot.
 
-Want these post directly sent to your Email Inbox? Subscribe below, it helps me out alot!
+***
 
-Thank you,
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
 -Caleb
     

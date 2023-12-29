@@ -38,9 +38,10 @@ Published 2020. I don't get to mention this often, but the paper texture of this
 
 Published 2018. A very classic story that focuses on quiet and calm to engage with sleep, it worked for me as I let out a yawn or two. The artwork is really good. I especially loved the giraffe spread, resting their heads on clouds. The rest of the spreads are equally creative and visually addicting to look at. Pick this one up just for the art. <h style="color:#5ABB71;">★</h>
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

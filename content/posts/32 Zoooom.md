@@ -36,9 +36,10 @@ Published 2021. The artwork is different from my taste, but it is nicely done. I
 
 Published 2013. It is cute and sweet artwork with lovely pastel colors and illustrations. The story was nice, but I wish the resolution were more satisfying as it was a bit of a cop-out to have the parent randomly decide to keep Phil suddenly. I did love the parts leading up to the parent's arrival; they were silly and fun. It's a decent story that I wish had a better resolution. 
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

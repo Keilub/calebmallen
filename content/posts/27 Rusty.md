@@ -36,9 +36,10 @@ Published 2000. It's an alphabet book with no direct story here, but the illustr
 
 Published 1994. Fantastic illustrations. The story is sweet, and I love how the images show what isn't in the text. The story reminds me in message and structure of "What is Love" by Mac Barnett and Carson Ellis. The story is wordier than it needs to be, but it still is an excellent read with a great message.
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

@@ -36,9 +36,10 @@ Published 2014. If in search of what a perfect picture book can look like, look 
 
 Published 2001. The artwork was nicely done. I enjoyed its rough nature with simple color washes and varied linework. The story was a bit dull to my taste. But, the theme was unique. This was the first book I've come across that revolved around a wedding. I wouldn't necessarily use Reluctant in the title, but more mischievous. It was a worthwhile read, but I doubt I'd return to the book. 
 
-Thank you,
+***
 
-Caleb <br>
-<br>
+If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
+-Caleb
+    
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
