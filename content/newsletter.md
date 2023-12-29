@@ -2,6 +2,10 @@
 title: 
 permalink: /newsletter/
 ---
+<p align="center">
+    <img src="/images/wanderwayprofile.png" />
+</p>
+
 <h2 style="color: #5ABB71;text-align:center;">Hey Wanderer!</h2>
 
 The Wanderway is my Blog/Newsletter, better called a creative experiment for me. Currently, the Newsletter is focused on picture books I read and the history of picture books. At some point, it may also include any of the below or maybe even something not listed:
