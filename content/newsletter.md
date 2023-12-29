@@ -2,11 +2,7 @@
 title: 
 permalink: /newsletter/
 ---
-<iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-<br>
-<br>
-
-<h2 style="color: #5ABB71;">Hey Wanderer!</h2>
+<h2 style="color: #5ABB71;text-align:center;">Hey Wanderer!</h2>
 
 The Wanderway is my Blog/Newsletter, better called a creative experiment for me. Currently, the Newsletter is focused on picture books I read and the history of picture books. At some point, it may also include any of the below or maybe even something not listed:
 
@@ -53,6 +49,10 @@ I’m a big fan of the books The Wander Society as well as The Art of Noticing a
 *Opposite Thursdays of Paging thru Pictures at 2pm:*
 
 > Inkwell & Embers is a project for me, to hold myself accountable in my process of creating and showing up daily. It will be a journal-like format where I share my sketches and art process and thoughts as I struggle through my creations. Other things planned to be in this area are the things I am reading, writing, and all the media and nature I am consuming to inspire and inform the things I am creating.
+
+<iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<br>
+<br>
 
 <h2 style="color: #5ABB71;">More Ways To Connect...</h2>
 
