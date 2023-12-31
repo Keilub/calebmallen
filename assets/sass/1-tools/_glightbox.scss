@@ -431,7 +431,7 @@
 }
 
 .glightbox-mobile .goverlay {
-  background: #000;
+  background: #fff;
 }
 
 .gprev,
@@ -852,7 +852,7 @@ iframe.wait-autoplay {
   }
 }
 
-@media (min-width: 769px) {
+@media (min-width: 750px) {
   .glightbox-container .ginner-container {
     width: auto;
     height: auto;
@@ -908,11 +908,7 @@ iframe.wait-autoplay {
     height: auto;
   }
   .goverlay {
-    background: rgba(0, 0, 0, 0.92);
-  }
-  .glightbox-clean .gslide-media {
-    -webkit-box-shadow: 1px 2px 9px 0px rgba(0, 0, 0, 0.65);
-    box-shadow: 1px 2px 9px 0px rgba(0, 0, 0, 0.65);
+    background: rgba(255, 255, 255, 0.92);
   }
   .glightbox-clean .description-left .gdesc-inner,
 .glightbox-clean .description-right .gdesc-inner {
@@ -923,12 +919,12 @@ iframe.wait-autoplay {
   .glightbox-clean .gprev,
     .glightbox-clean .gnext,
     .glightbox-clean .gclose {
-    background-color: rgba(0, 0, 0, 0.32);
+    background-color: rgba(0, 0, 0, 0.65);
   }
   .glightbox-clean .gprev:hover,
 .glightbox-clean .gnext:hover,
 .glightbox-clean .gclose:hover {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.9);
   }
   .glightbox-clean .gprev {
     top: 45%;
