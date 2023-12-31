@@ -7,7 +7,7 @@ permalink: /sushi/
     media="(min-width: 750px)"
     srcset="/images/sushi.png">
   <source
-    media="(min-width: 450px)"
+    media="(min-width: 300px)"
     srcset="/images/sushimobile.png">
   <img
     src="/images/sushi.png"><br>

@@ -6,7 +6,7 @@ permalink: /maple/
     media="(min-width: 750px)"
     srcset="/images/maple.png">
   <source
-    media="(min-width: 450px)"
+    media="(min-width: 300px)"
     srcset="/images/maplemobile.png">
   <img
     src="/images/maple.png"><br>

@@ -6,7 +6,7 @@ title:
     media="(min-width: 750px)"
     srcset="/images/Contact.png">
   <source
-    media="(min-width: 450px)"
+    media="(min-width: 300px)"
     srcset="/images/ContactMobile.png">
   <img
     src="images/Contact.png"><br>

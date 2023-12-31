@@ -6,7 +6,7 @@ permalink: /about/
     media="(min-width: 750px)"
     srcset="/images/ChildCaleb.png">
   <source
-    media="(min-width: 450px)"
+    media="(min-width: 300px)"
     srcset="/images/ChildCalebmobile.png">
   <img
     src="/images/ChildCaleb.png"><br>

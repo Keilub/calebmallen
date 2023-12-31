@@ -6,7 +6,7 @@ permalink: /current/
     media="(min-width: 750px)"
     srcset="/images/CurrentHeadshot-01.png">
   <source
-    media="(min-width: 450px)"
+    media="(min-width: 300px)"
     srcset="/images/CurrentHeadshot-01mobile.png">
   <img
     src="/images/CurrentHeadshot-01.png"><br>

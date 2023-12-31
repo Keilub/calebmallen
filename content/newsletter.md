@@ -7,7 +7,7 @@ permalink: /newsletter/
     media="(min-width: 750px)"
     srcset="/images/wanderwayprofile.png">
   <source
-    media="(min-width: 450px)"
+    media="(min-width: 300px)"
     srcset="/images/wanderwayprofilemobile.png">
   <img
     src="/images/wanderwayprofile.png"><br>
