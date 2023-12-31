@@ -82,8 +82,7 @@ I’m a big fan of the books The Wander Society as well as The Art of Noticing a
 I greatly appreciate you reading and subscribing.
 
 
-Thank you,
-
-*Caleb M Allen*
+Thank you,<br>
+*Caleb*
 
 
