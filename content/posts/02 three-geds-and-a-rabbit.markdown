@@ -48,4 +48,4 @@ Words that stood out to me: nearsighted, disaster
 
 I really love the poetic writing in this story along with its message (very similar to Love You Forever), but with that said I think it leans too heavily towards adults. The colors and artwork are my favorite part of this book, the palette is a personal favorite and works incredibly well with the expressive and raw line work.
 
-- Caleb Allen
+*Caleb*

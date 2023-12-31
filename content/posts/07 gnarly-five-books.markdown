@@ -46,4 +46,4 @@ As always, thank you for joining me this week. A fantastic group of books.
 
 Thank you,
 
-- Caleb
+*Caleb*

@@ -38,4 +38,4 @@ I remember my family reading me Allan Ahlberg books when a child, and I can cert
 
 Was fun to read with rhythmic text that really flowed along. A learn book on earth’s biomes but not preachy, a fantastic tidbit of learning to be gained here. No direct message but you can take a message of the joys of adventuring/journeying together. Really great lifework in the illustrations and pleasant colors.
 
--Caleb
+*Caleb*

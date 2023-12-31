@@ -53,4 +53,4 @@ Phrase: “Something I learned from a bear.”
 ## In closing <br>
 When I pulled the 5 books from the shelf this week and realized they were all from one writer/illustrator I was a little bummed but Jon Agee crafts some incredible books that were an absolute joy to read. See you next week!
 
--Caleb
+*Caleb*

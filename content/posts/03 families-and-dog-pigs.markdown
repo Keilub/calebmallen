@@ -50,4 +50,4 @@ Great learning book, as well as showcasing a parents love. I enjoyed the freedom
 
 Words/Phrases that stood out: “Good enough to eat baby. Sweep me off my feet baby. I love you.”
 
-- Caleb Allen
+*Caleb*

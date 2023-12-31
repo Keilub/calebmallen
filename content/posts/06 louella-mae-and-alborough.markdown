@@ -58,4 +58,4 @@ between my pages. <br>
 
 1998, The beginning of the story gives me major deja vu for this story, and having read a very similar story to it by another author. But as the story develops, it diverts in a different direction than the other story (if I remember this book, I will edit this post). A sweet story with the most words by Alborough and a nice message. 
 
--Caleb
+*Caleb*

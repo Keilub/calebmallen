@@ -40,4 +40,4 @@ Published 1982. I just found out there was a sequel or more books about Miss Nel
 
 Published 2000. Incredible artwork and such a lovely cover. I was astonished this book was so old. It feels very modern in its design and style. The story has quite the word count; I wish it was edited for a swifter read, but it would be a good book for transitioning to more text-focused books, and this one is written very well. A lovely message with absolutely stunning artwork, a must-read.
 
-- Caleb
+*Caleb*

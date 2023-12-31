@@ -44,4 +44,4 @@ Published 2003. Simple story with no actual conflict and fantastic artwork. It w
 
 Thank you for reading along with me this week,
 
-- Caleb
+*Caleb*

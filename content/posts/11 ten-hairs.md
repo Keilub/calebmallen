@@ -48,4 +48,4 @@ Published 2006. I like the straightforward illustrations; they have great color 
 Published 1936. Fantastic technical illustrations, a lot to look at and get lost in. The story felt stale; the conflict that was in the story wasn't related to the main character and needed to be longer-lived. If anything, it could have been excluded to try and do something else with the story. The story feels very slice of life, if not a bit too perfect. I love reading and interacting with these older books and noticing the differences in how they tell a story and how picture books are structured/told. 
 
 Thank you for reading with me,
-- Caleb
+*Caleb*
