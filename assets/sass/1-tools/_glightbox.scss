@@ -426,7 +426,7 @@
   position: fixed;
   top: -1px;
   left: 0;
-  background: #000;
+  background: #fff;
   will-change: opacity;
 }
 
@@ -540,7 +540,7 @@ iframe.wait-autoplay {
 .glightbox-clean .gprev,
     .glightbox-clean .gnext,
     .glightbox-clean .gclose {
-  background-color: rgba(0, 0, 0, 0.75);
+  background-color: rgba(0, 0, 0, 0.35);
   border-radius: 4px;
 }
 
@@ -919,7 +919,7 @@ iframe.wait-autoplay {
   .glightbox-clean .gprev,
     .glightbox-clean .gnext,
     .glightbox-clean .gclose {
-    background-color: rgba(0, 0, 0, 0.65);
+    background-color: rgba(0, 0, 0, 0.35);
   }
   .glightbox-clean .gprev:hover,
 .glightbox-clean .gnext:hover,
@@ -943,6 +943,6 @@ iframe.wait-autoplay {
 
 @media screen and (max-height: 420px) {
   .goverlay {
-    background: #000;
+    background: #fff;
   }
 }
