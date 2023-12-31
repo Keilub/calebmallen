@@ -1,6 +1,6 @@
 ---
 title: The Beginning | 01
-description: Quite a 23
+description: 2023 has been a packed year, filled with connections and ideas, Happy New Year, friends!
 date:   2023-12-28 13:00:00 +0300
 image: /images/inkwell1.jpg
 tags: [inkwell & ember]
@@ -9,6 +9,8 @@ tags: [inkwell & ember]
 <h1 style="color: #5ABB71;">In the Well</h1>
 
 *An area to share the things and processes going on in my studio/practice.*<br>
+
+![alt text](/images/paperstack.jpg)
 
 #### Process. Writing. Seeking. Repeating. 
 I know it’s a bit wasteful, but there is something about working from paper and writing my thoughts out. For my early stages of writing it all takes physcially with pen and paper, which becomes a cycle as I will start a project and write out a bunch of thoughts, then I take those thoughts and type them into my writing app (Ulysses) and then from that I will print out those notes, ideas and inspirations. I then take those sheets and highlight and markup those sheets and see where they guide me. Sort of my past self guiding my present self, I will take notes on things I need to research and understand which is then when I take my time to go on consumption journeys of finding stories from others that I can draw from and this sort of helps me take my rough and sharp ideas and start chipping away at the things that don’t work or the places where I need to choose a direction. These journeys seeking inspiration and sparks can last anywhere to a few minutes to a few weeks. I scour films, tv, games, blogs, and any avenue of reflective thought to find what I don’t even know what I’m seeking exactly. Then once I’ve taken notes on a few new sources of how others have solved their problems I take their blue prints and see if/how they compare to the problem I have in front of me with my stories. Then I begin writing and cross referencing my previous notes and writing. Then the cycle continues as I dive deeper into this hand writing stage and then refining digitally and then printing and then again seeking. Rinse. Repeat. 
@@ -29,16 +31,15 @@ I spent months trying to figure out how I wanted to refine this illustration and
 
 #### Connecting with the Past, Now
 
-Maurice Sendak. 
-https://www.goodreads.com/book/show/559697.Caldecott_Co_
+Sendak, Krauss & Ungerer have been one of many guides from the past that have inspired me this year. I adore this trio of writers and artist of picture books. Specifically, I love their honest and beautiful storytelling. I also appreciate their ability to converse with both children and adults about topics worth sharing; their ability to converse with both children and adults about topics deemed ‘grown-up’. They never wrote the same book. They wrote to the feelings, sights, sounds, colors, ideas, and humor of the reader. They created worlds full of conflict and whimsy. They invited their readers into the story. More than that, they granted the readers permission to rewrite the story. This allowed the readers to gain their own morals and ideas from the story. They respect the reader, especially children. They respect what they are capable of doing, understanding, and coping with. Their stories inviting the dark and weird or the difficult to interpret. Stories that are provoking and engaging with the mystery of the unknowns.
 
-Ruth Krauss 
-https://www.goodreads.com/book/show/13615831-crockett-johnson-and-ruth-krauss
+Researching and connecting with these spiritual guides have lead my own storytelling to improve and become much more interesting. Their stories and methods have inspired me this year. They have engrossed me in storytelling. I can’t wait to share these stories and questions with my readers very soon.
 
-Tomi Ungerer 
-https://www.imdb.com/title/tt1974254/
+<a href="https://www.goodreads.com/book/show/559697.Caldecott_Co_" style="color: #5ABB71"><u>Caldecott Co. by <i>Maurice Sendak</i></u></a>
 
-Currently have 10+ years worth of artist to profile in Paging thru Pictures.
+<a href="https://www.goodreads.com/book/show/13615831-crockett-johnson-and-ruth-krauss" style="color: #5ABB71"><u>Crockett Johnson and Ruth Krauss by <i>Philip Nel</i></u></a>
+
+<a href="https://www.imdb.com/title/tt1974254/" style="color: #5ABB71"><u>Far Out Isn't Far Enough: The Tomi Ungerer Story</u></a>
 
 <h1 style="color: #5ABB71;">Sparks</h1>
 
