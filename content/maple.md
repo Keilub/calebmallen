@@ -1,9 +1,17 @@
 ---
 permalink: /maple/
 ---
-<p align="center">
-    <img src="/images/maple.png" />
-</p>
+<picture>
+  <source
+    media="(min-width: 750px)"
+    srcset="/images/maple.png">
+  <source
+    media="(min-width: 450px)"
+    srcset="/images/maplemobile.png">
+  <img
+    src="/images/maple.png"><br>
+</picture>
+<br>
 
 <h5 style="color: #5ABB71;">Maple!</h5>
 

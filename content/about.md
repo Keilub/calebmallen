@@ -1,10 +1,18 @@
 ---
 permalink: /about/
 ---
-<p align="center">
-    <img src="/images/ChildCaleb.png" />
-</p>
-</br>
+<picture>
+  <source
+    media="(min-width: 750px)"
+    srcset="/images/ChildCaleb.png">
+  <source
+    media="(min-width: 450px)"
+    srcset="/images/ChildCalebmobile.png">
+  <img
+    src="/images/ChildCaleb.png"><br>
+</picture>
+<br>
+
 <h2 style="color: #5ABB71;">Hey! It's me, Caleb</h2>
 
 <h5>(In A Hurry)</h5>

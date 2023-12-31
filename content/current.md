@@ -1,9 +1,17 @@
 ---
 permalink: /current/
 ---
-<p align="center">
-    <img src="/images/CurrentHeadshot-01.png" />
-</p>
+<picture>
+  <source
+    media="(min-width: 750px)"
+    srcset="/images/CurrentHeadshot-01.png">
+  <source
+    media="(min-width: 450px)"
+    srcset="/images/CurrentHeadshot-01mobile.png">
+  <img
+    src="/images/CurrentHeadshot-01.png"><br>
+</picture>
+<br>
 
 <h5 style="color: #5ABB71;">For Curious People Only!</h5>
 

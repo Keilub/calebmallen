@@ -2,9 +2,17 @@
 title: 
 permalink: /newsletter/
 ---
-<p align="center">
-    <img src="/images/wanderwayprofile.png" />
-</p>
+<picture>
+  <source
+    media="(min-width: 750px)"
+    srcset="/images/wanderwayprofile.png">
+  <source
+    media="(min-width: 450px)"
+    srcset="/images/wanderwayprofilemobile.png">
+  <img
+    src="/images/wanderwayprofile.png"><br>
+</picture>
+<br>
 
 <h2 style="color: #5ABB71">Hey Wanderer!</h2>
 
