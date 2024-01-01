@@ -24,7 +24,7 @@
   left: 20px;
   display: inline-block;
   padding: 8px 12px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1;
   font-weight: 500;
   border-radius: 8px;
@@ -40,9 +40,10 @@
   height: 0;
   margin-bottom: 24px;
   padding-bottom: 62%;
-  border-radius: 16px;
+  border-radius: 20px;
   overflow: hidden;
   background: var(--background-alt-color);
+  border: 4px solid #f0f0f0;
 
   img {
     position: absolute;
