@@ -30,7 +30,7 @@ Published 2014. Unique. Vibrant. Fun. Those are what this artwork is. This book 
 
 *by Barroux*
 
-Published 2020. I don't get to mention this often, but the paper texture of this book was nice. It had a lovely grainy feel. It was easy to turn the pages and grip. I'm a sucker for this style of artwork. The artwork has very large and strong brushstrokes. The linework is detailed. The colors were well chosen. The compositions could've been more varied, but the work had great flow. It was nice to look at. The story is one long setup for a silly joke, if you like more potty humor I would say your'd like this one. May not be for everyone, but I found it charming and honestly had a sense of realism... sometimes we just gotta run to the toilet. 
+Published 2020. I don't get to mention this often, but the paper texture of this book was nice. It had a lovely grainy feel. It was easy to turn the pages and grip. I'm a sucker for this style of artwork. The artwork has very large and strong brushstrokes. The linework is detailed. The colors were well chosen. The compositions could've been more varied, but the work had great flow. It was nice to look at. The story is one long setup for a silly joke, if you like more potty humor I would say you'd like this one. May not be for everyone, but I found it charming and honestly had a sense of realism... sometimes we just gotta run to the toilet. 
 
 ## Shhh!
 

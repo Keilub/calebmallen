@@ -16,7 +16,7 @@ Published 2020. The story was interesting, but not to my taste. The art was well
 
 *written by Mac Barnett, pictures by Adam Rex.* 
 
-Published 2012. Incredibly unique visuals that were intersting and lovely to look at. The story is very meta and breaks the fourth wall. This would be hilarious to a child because it was hilarious to me. What I enjoy about this book is its respect for the child and adult readers, it tells a story for anyone. Truly a creative tale. <h style="color:#5ABB71;">★</h>
+Published 2012. Incredibly unique visuals that were interesting and lovely to look at. The story is very meta and breaks the fourth wall. This would be hilarious to a child because it was hilarious to me. What I enjoy about this book is its respect for the child and adult readers, it tells a story for anyone. Truly a creative tale. <h style="color:#5ABB71;">★</h>
 
 ## Cloudy with a Chance of Meatballs
 

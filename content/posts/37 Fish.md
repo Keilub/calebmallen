@@ -6,7 +6,7 @@ image: /images/wanderway37.jpg
 tags: [weekly picture]
 ---
 
-## Lot's more animals should definitely not wear clothing.
+## Lots more animals should definitely not wear clothing.
 
 *written by Judi Barrett, drawn by Ron Barrett*
 
