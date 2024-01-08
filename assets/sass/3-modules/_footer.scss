@@ -66,13 +66,12 @@
   color: var(--heading-font-color);
 
   a {
-    text-decoration: underline;
     text-decoration-color: transparent;
     color: var(--heading-font-color);
 
     &:hover {
       text-decoration-color: var(--heading-font-color);
-      color: var(--heading-font-color);
+      color: #5ABB71;
     }
   }
 }
