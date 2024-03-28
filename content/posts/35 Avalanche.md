@@ -34,7 +34,7 @@ Published 2017. I probably would've never picked this one up by judging it from 
 
 *by Sudipta Bardhan-Quallen, pictures by Noah Z. Jones*
 
-Published 2014. I adored the style of this book, the line work and coloring works well for me. Using only 2 unique words, the story tells itself and does a very nice job of it. Fun from beginning to end with a sweet ending. 
+Published 2014. I adored the style of this book, the line work and coloring works well for me. Using only 2 unique words, the story tells itself and does a very nice job of it. Fun from beginning to end with a sweet ending.  
 
 ***
 
