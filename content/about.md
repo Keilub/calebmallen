@@ -24,13 +24,13 @@ I'm a storyteller and illustrator working in graphite, marker, oil pastel, and d
 
 <u><a href= "/current/"> Click here for a more recent photo of me. </a> <br></u>
 
->"(Caleb) reaches high standards for excellence by his tenacioius spirit and his patient, steady approach with his attention to detail and subtleties. He is a superb craftsman with a highly developed sense of design and composition, which, coupled with both tactile, and digital ability, rivals that of any of his professsional counterparts."<br>
+>(Caleb) reaches high standards for excellence by his tenacioius spirit and his patient, steady approach with his attention to detail and subtleties. He is a superb craftsman with a highly developed sense of design and composition, which, coupled with both tactile, and digital ability, rivals that of any of his professsional counterparts.<br>
 <br>
--Dom Scibilia
+— Dom Scibilia
 
->“We need more of Caleb telling stories. We’ll sure try to do our part here at Cricket Media.”<br>
+>We need more of Caleb telling stories. We’ll sure try to do our part here at Cricket Media.<br>
 <br>
--John Sandford
+— John Sandford
 
 <br>
 <h5>What I'm reading</h5>
