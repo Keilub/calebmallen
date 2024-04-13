@@ -67,24 +67,6 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   });
 
-
-  /* =======================
-  // Scroll Top Button
-  ======================= */
-  window.addEventListener("scroll", function () {
-    window.scrollY > window.innerHeight ? btnScrollToTop.classList.add("is-active") : btnScrollToTop.classList.remove("is-active");
-  });
-
-  btnScrollToTop.addEventListener("click", function () {
-    if (window.scrollY != 0) {
-      window.scrollTo({
-        top: 0,
-        left: 0,
-        behavior: "smooth"
-      })
-    }
-  });
-
 });
 
 const menuLabel = document.querySelector(".menu-label");
