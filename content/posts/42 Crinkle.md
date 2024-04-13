@@ -1,5 +1,5 @@
 ---
-title: The Fox, the Crinkle, and the Angkor Wat | 42
+title: the fox, the crinkle, and the angkor wat | 42
 description: Beautiful artwork that is unique and strong.
 date:   2024-05-07 13:00:00 +0300
 image: /images/wanderway42.jpg

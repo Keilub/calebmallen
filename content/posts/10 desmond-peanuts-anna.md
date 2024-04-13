@@ -1,5 +1,5 @@
 ---
-title:  Desmond, Peanuts & Anna | 10
+title:  desmond, peanuts & anna | 10
 description: Can you find Desmond?
 date:   2023-03-13 15:01:35 +0300
 image: /images/wanderway10.jpg

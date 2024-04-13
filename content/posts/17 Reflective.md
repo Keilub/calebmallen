@@ -1,5 +1,5 @@
 ---
-title: Reflective Nostalgia | 17
+title: reflective nostalgia | 17
 description: If planet earth were books, except for the monster one of course...
 date:   2023-09-19 13:00:00 +0300
 image: /images/wanderway17.jpg

@@ -1,5 +1,5 @@
 ---
-title: Daniel Unplugged | 14
+title: daniel unplugged | 14
 description: Read Daniel finds a poem!
 date:   2023-08-29 13:00:00 +0300
 image: /images/wanderway14.jpg

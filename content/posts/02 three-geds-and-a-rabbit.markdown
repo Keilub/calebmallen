@@ -1,5 +1,5 @@
 ---
-title:  Three Ged's and a Rabbit | 02
+title:  three ged's and a rabbit | 02
 description: He found a lonely branch and made it his home.
 date:   2022-08-01 15:01:35 +0300
 image:  /images/wanderway02.jpg

@@ -1,5 +1,5 @@
 ---
-title: Giraffes... Can Dance? | 12
+title: giraffes... can dance? | 12
 description: Whimsical Truth
 date:   2023-07-31 13:00:00 +0300
 image: /images/wanderway12.jpg

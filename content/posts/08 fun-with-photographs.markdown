@@ -1,5 +1,5 @@
 ---
-title:  Fun with Photographs | 08
+title:  fun with photographs | 08
 description: Subverting my own expectations.
 date:   2023-02-13 15:01:35 +0300
 image:  '/images/wanderway08.jpg'

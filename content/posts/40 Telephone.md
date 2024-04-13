@@ -1,5 +1,5 @@
 ---
-title: What is Telephone | 40
+title: what is telephone | 40
 description: Stunning artwork
 date:   2024-04-23 13:00:00 +0300
 image: /images/wanderway40.jpg

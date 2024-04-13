@@ -1,5 +1,5 @@
 ---
-title: Knock Knock All Dogs Gone | 44
+title: knock knock all dogs gone | 44
 description: Cows, and Dogs, and a big King Baby!
 date:   2024-05-21 13:00:00 +0300
 image: /images/wanderway44.jpg

@@ -1,5 +1,5 @@
 ---
-title: Community | 16
+title: community | 16
 description: Quite a few books on coming together
 date:   2023-09-12 13:00:00 +0300
 image: /images/wanderway16.jpg

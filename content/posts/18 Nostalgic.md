@@ -1,5 +1,5 @@
 ---
-title: Exuberantly Nostalgic | 18
+title: exuberantly nostalgic | 18
 description: A Tedd Arnold Journey
 date:   2023-09-26 13:00:00 +0300
 image: /images/wanderway18.jpg

@@ -1,5 +1,5 @@
 ---
-title: Every Good Talent | 33
+title: every good talent | 33
 description: A Taxi, a trio of singing cats, and every good thing.
 date:   2024-03-05 13:00:00 +0300
 image: /images/wanderway33.jpg

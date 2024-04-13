@@ -1,5 +1,5 @@
 ---
-title:  Longer Text with Allan Ahlberg | 05
+title:  longer text with allan ahlberg | 05
 description: A nostalgic trip with Allan Ahlberg
 date:   2023-01-16 15:01:35 +0300
 image:  '/images/wanderway05.jpg'

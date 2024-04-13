@@ -1,5 +1,5 @@
 ---
-title: One word Trevor, Junkyard | 24
+title: one word trevor, junkyard | 24
 description: Lovely and strong
 date:   2023-11-07 13:00:00 +0300
 image: /images/wanderway24.jpg

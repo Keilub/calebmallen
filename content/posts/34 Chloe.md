@@ -1,5 +1,5 @@
 ---
-title: Chloe and the Meatballs | 34
+title: chloe and the meatballs | 34
 description: A meta tale and a missing sequel
 date:   2024-03-12 13:00:00 +0300
 image: /images/wanderway34.jpg

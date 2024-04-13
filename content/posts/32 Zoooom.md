@@ -1,5 +1,5 @@
 ---
-title: Zoooooom | 32
+title: zoooooom | 32
 description: Unique books for unique journeys.
 date:   2024-02-27 13:00:00 +0300
 image: /images/wanderway32.jpg

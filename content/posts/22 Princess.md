@@ -1,5 +1,5 @@
 ---
-title: Egg Marks Princess | 22
+title: egg marks princess | 22
 description: The beginning of Mary Jane Auch
 date:   2023-10-24 13:00:00 +0300
 image: /images/wanderway22.jpg

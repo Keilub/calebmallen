@@ -1,5 +1,5 @@
 ---
-title: Polar Bear Pickles at the Dentist | 38
+title: polar bear pickles at the dentist | 38
 description: Finally found that sequel to Cloudy with a Chance of Meatballs
 date:   2024-04-09 13:00:00 +0300
 image: /images/wanderway38.jpg

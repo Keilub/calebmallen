@@ -3,13 +3,21 @@
 }
 @font-face {
   font-family: 'Triplicate';
-  src: url('/fonts/triplicate_a_regular.woff2') format('woff2')
+  src: url('/fonts/triplicate_a_regular.woff2') format('woff2');
 }
 @font-face {
   font-family: 'Heliotrope';
-  src: url('/fonts/heliotrope_4_regular.woff2') format('woff2')
+  src: url('/fonts/heliotrope_4_regular.woff2') format('woff2');
 }
-
+@font-face {
+  font-family: 'Heliotrope';
+  src: url('/fonts/heliotrope_4_italic.woff2') format('woff2');
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Heliotrope Cap';
+  src: url('/fonts/heliotrope_4_caps_regular.woff2') format('woff2');
+}
 
 body {
   font-family: 'Triplicate';
@@ -45,6 +53,7 @@ h6 {
 
 h1 {
   font-size: $font-size-h1;
+  text-transform: capitalize;
 }
 
 h2 {
@@ -68,14 +77,15 @@ h6 {
 }
 
 blockquote {
+  font-family: 'Heliotrope';
+  font-style: italic;
   position: relative;
   margin: 40px 0;
   padding-left: 26px;
-  font-size: 18px;
-  line-height: 1.7;
-  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
   border-left: 4px solid #5ABB71;
-  color: #66826d;
+  color: #333333;
 
   p {
     margin-bottom: 10px;
@@ -84,7 +94,7 @@ blockquote {
   cite {
     display: inline-block;
     margin-top: 8px;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 700;
     font-style: normal;
     color: var(--heading-font-color);
@@ -92,7 +102,7 @@ blockquote {
   }
 
   @media only screen and (max-width: $mobile) {
-    font-size: 18px;
+    font-size: 20px;
   }
 }
 
@@ -128,8 +138,6 @@ img,
     color: var(--heading-font-color);
   
     a {
-      font-weight: 500;
-      border-bottom: 1px solid var(--border-color);
       transition: $global-transition;
 
       &:hover {
@@ -144,14 +152,11 @@ img,
 }
 
 a {
-  text-decoration: none;
+  font-family: 'Heliotrope Cap';
   color: #262626;
   transition: $global-transition;
-
-  &:hover {
-    color: #262626;
+  text-decoration: none !important;
   }
-}
 
 hr {
   width: 100%;

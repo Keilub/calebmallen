@@ -1,5 +1,5 @@
 ---
-title: Angry Eraser | 31
+title: angry eraser | 31
 description: Fantastic books this week, must check out Sophie and Eraserhead!
 date:   2024-02-20 13:00:00 +0300
 image: /images/wanderway31.jpg

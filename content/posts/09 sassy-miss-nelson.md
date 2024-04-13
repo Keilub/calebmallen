@@ -1,5 +1,5 @@
 ---
-title:  Sassy Miss Nelson | 09
+title:  sassy miss nelson | 09
 description: From 'Vintage' to 'Modern'
 date:   2023-03-06 15:01:35 +0300
 image: /images/wanderway09.jpg

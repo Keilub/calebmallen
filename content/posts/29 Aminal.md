@@ -1,5 +1,5 @@
 ---
-title: Aminal Moon | 29
+title: aminal moon | 29
 description: Too many moons, lovely group of books this week.
 date:   2024-02-06 13:00:00 +0300
 image: /images/wanderway29.jpg

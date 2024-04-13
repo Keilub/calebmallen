@@ -1,5 +1,5 @@
 ---
-title: Got any more bananas yeti? | 13
+title: got any more bananas yeti? | 13
 description: Nice art this batch
 date:   2023-08-22 13:00:00 +0300
 image: /images/wanderway13.jpg

@@ -1,5 +1,5 @@
 ---
-title:  Louella Mae & Jez Alborough | 06
+title:  louella mae & jez alborough | 06
 description: 4 books written by Jez Alborough and one by Karen Beaumont Alarcon
 date:   2023-01-23 15:01:35 +0300
 image:  '/images/wanderway06.jpg'

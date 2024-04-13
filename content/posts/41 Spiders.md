@@ -1,5 +1,5 @@
 ---
-title: Dino Bus Full of Spiders | 41
+title: dino bus full of spiders | 41
 description: 88 Spiders playing 88 Instruments while riding a bus.
 date:   2024-04-30 13:00:00 +0300
 image: /images/wanderway41.jpg

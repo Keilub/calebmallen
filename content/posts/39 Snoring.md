@@ -1,5 +1,5 @@
 ---
-title: A Snoring Skunk in a Hole | 39
+title: a snoring skunk in a hole | 39
 description: Quite a variety
 date:   2024-04-16 13:00:00 +0300
 image: /images/wanderway39.jpg

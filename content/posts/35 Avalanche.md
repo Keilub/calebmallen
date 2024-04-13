@@ -1,5 +1,5 @@
 ---
-title: An Avalanche of Stone | 35
+title: an avalanche of stone | 35
 description: Bright books
 date:   2024-03-19 13:00:00 +0300
 image: /images/wanderway35.jpg

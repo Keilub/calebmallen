@@ -1,5 +1,5 @@
 ---
-title: A Horse, a Mole, and Snowmen | 15
+title: a horse, a mole, and snowmen | 15
 description: A wide variety
 date:   2023-09-05 13:00:00 +0300
 image: /images/wanderway15.jpg

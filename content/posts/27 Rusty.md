@@ -1,5 +1,5 @@
 ---
-title: A Rusty Bike in a Mouse House | 27
+title: a rusty bike in a mouse house | 27
 description: Richard Hull mesmerizing illustrations and charming Russell Auto
 date:   2023-11-28 13:00:00 +0300
 image: /images/wanderway27.jpg

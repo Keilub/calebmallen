@@ -1,5 +1,5 @@
 ---
-title: Joy, Hope and a Blue Room | 25
+title: joy, gope and a blue Room | 25
 description: Beautiful books both visually and emotionally
 date:   2023-11-14 13:00:00 +0300
 image: /images/wanderway25.jpg

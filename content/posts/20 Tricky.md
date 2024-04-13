@@ -1,5 +1,5 @@
 ---
-title: Tricky Chicken Whopper | 20
+title: tricky chicken whopper | 20
 description: Many yellow books
 date:   2023-10-10 13:00:00 +0300
 image: /images/wanderway20.jpg

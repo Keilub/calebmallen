@@ -18,11 +18,11 @@ His statistical data showed that up to 40% of people with acute cases of schizop
 
 Hoffmann wrote the book that would later be titled Struwwelpeter in reaction to what he perceived as a lack of good books for children. Intending to buy a picture book as a Christmas present for his three-year-old son, Hoffmann instead wrote and illustrated his book. Hoffmann did not intend to publish the book when it was produced.
 
-<a href="https://www.journals.uchicago.edu/doi/10.1086/pbsa.97.2.24296027" style="color: #5ABB71"><u>Chicago Journal</u></a>
+<a href="https://www.journals.uchicago.edu/doi/10.1086/pbsa.97.2.24296027"><u>Chicago Journal</u></a>
 
 Hoffmann's book was first introduced to the public at a meeting held by the Frankfurt literary club, the Tutti Fruti Society (Gesellschaft der Tutti-Frutti), on January 18, 1845. Zacharias Löwenthal, a co-founder of the publishing company Literarische Anstalt, purchased the book for 80 gulden during the event. This book may not have been published if it weren't for Zacharias Löwenthal. He stumbled upon it and saw its unique value as a children's book. Löwenthal urged Hoffmann to publish it, but Hoffmann had reservations. He feared publishing a children's book could harm his reputation as a doctor and poet. Finally, with some encouragement and a "bright, wine-influenced whim," Hoffmann agreed to publish it under the pseudonym "Reimerich Kinderlieb" in the first edition. Hoffmann later wrote that "that night, at 11 o'clock, I had, almost without knowing what I had done, suddenly become an author of juvenile books."
 
-<a href="https://www.struwwelpeter-museum.de/en/heinrich-hoffmann/" style="color: #5ABB71"><u>Struwwelpeter Museum</u></a>
+<a href="https://www.struwwelpeter-museum.de/en/heinrich-hoffmann/" ><u>Struwwelpeter Museum</u></a>
 
 Hoffmann had already published poems and a satirical comedy before publishing his famous collection of illustrated children's verses, Struwwelpeter, in 1845. The book was a hit and had to be regularly reprinted, with numerous foreign translations. Despite its anti-heroes, Hoffmann's contemporaries did not consider the book cruel or overly moral. The original title, Funny Stories and droll pictures, suggests that Hoffmann intended to entertain. 
 
@@ -32,9 +32,9 @@ Following the success of Struwwelpeter, Hoffmann continued to write children's b
 
 Struwwelpeter was revolutionary for its innovative approach of arranging the text around the images, making it a popular picture book and an inspiration and beginning to comics. The book was foundational for writers and illustrators such as Edward Gorey, Roald Dahl, Maurice Sendak, and Dick Bruna. Struwwelpeter was also one of the first publications to make use of chromolithography. It has since been translated into numerous languages and editions. It even inspired adaptations such as operas and films like Tim Burton's Edward Scissorhands, which took inspiration from the Struwwelpeter's unruly hair and the Scissorman's act of cutting off a child's thumbs to create the gentle yet tragic character of Edward Scissorhands in his 1991 film.
 
-<a href="https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/struwwelpeter-by-heinrich-hoffmann-psychiatry-in-literature/E8A4BC5623A5952E09C24C9E3CF78682" style="color: #5ABB71"><u>Cambridge</u></a>
+<a href="https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/struwwelpeter-by-heinrich-hoffmann-psychiatry-in-literature/E8A4BC5623A5952E09C24C9E3CF78682"><u>Cambridge</u></a>
 
-<a href="https://www.bl.uk/collection-items/the-english-struwwelpeter-by-heinrich-hoffmann" style="color: #5ABB71"><u>The English Struwwelpeter</u></a>
+<a href="https://www.bl.uk/collection-items/the-english-struwwelpeter-by-heinrich-hoffmann"><u>The English Struwwelpeter</u></a>
 
 ## Struwwelpeter meets modern society
 
@@ -44,17 +44,17 @@ Struwwelpeter was revolutionary for its innovative approach of arranging the tex
 
 In the early 19th century, attitudes changed as Struwwelpeter was criticized for its outdated approach to "disobedient" behavior and grotesque 'educational' methods. Educators believe the stories and images are too disturbing for children's entertainment. However, children have been told violent and scary stories throughout history in fables and fairytales. Dr. Hoffmann's strict upbringing may have influenced the content, but some researchers suggest Hoffmann intended it to be satirical. 
 
-<a href="https://www.lambiek.net/artists/h/hoffmann_dr_heinrich.htm" style="color: #5ABB71"><u>Lambiek | Hoffmann Dr Heinrich</u></a>
+<a href="https://www.lambiek.net/artists/h/hoffmann_dr_heinrich.htm" ><u>Lambiek: Hoffmann Dr Heinrich</u></a>
 
 ## Hoffmann’s Work
 
-<u><p style="color:#C68975;">[Struwwelpeter](https://www.gutenberg.org/files/12116/12116-h/12116-h.htm)</u></p>
+<u>[Struwwelpeter](https://www.gutenberg.org/files/12116/12116-h/12116-h.htm)</u>
 
 ## More articles
 
-<a href="https://www.atlasobscura.com/articles/original-struwwelpeter-illustrations-childrens-moral-lesson-book" style="color: #5ABB71"><u>Atlas Obscura | Struwwelpeter Illustrations</u></a>
+<a href="https://www.atlasobscura.com/articles/original-struwwelpeter-illustrations-childrens-moral-lesson-book" ><u>Atlas Obscura: Struwwelpeter Illustrations</u></a>
 
-<a href="https://www.kqed.org/arts/13863411/how-one-brutal-childrens-book-from-1845-left-permanent-marks-on-pop-culture" style="color: #5ABB71"><u>KQED | How One Brutal Children's Book from 1845 Left Permanent Marks on Pop Culture</u></a>
+<a href="https://www.kqed.org/arts/13863411/how-one-brutal-childrens-book-from-1845-left-permanent-marks-on-pop-culture"><u>KQED: How One Brutal Children's Book from 1845 Left Permanent Marks on Pop Culture</u></a>
 
 ***
 

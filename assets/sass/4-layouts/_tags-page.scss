@@ -58,7 +58,6 @@
     padding: 12px 16px;
     font-size: 16px;
     font-weight: 500;
-    text-transform: capitalize;
     border-radius: 8px;
     transition: none;
     background: var(--background-alt-color);
@@ -100,7 +99,6 @@
   background: var(--background-alt-color);
 
   span {
-    font-family: $heading-font-family;
     font-size: 32px;
     line-height: 1;
   }
@@ -108,7 +106,6 @@
   small {
     font-size: 16px;
     font-weight: 700;
-    text-transform: uppercase;
     letter-spacing: 1px;
   }
 
@@ -124,7 +121,6 @@
   margin-right: 40px;
   margin-bottom: 0;
   font-size: 40px;
-  text-transform: capitalize;
 
   @media only screen and (max-width: $tablet) {
     font-size: 32px;
@@ -149,12 +145,10 @@
 .archive__counter {
   font-size: 16px;
   font-weight: 700;
-  text-transform: uppercase;
   letter-spacing: 1px;
 }
 
 .archive__title {
   margin: 0;
   font-size: 40px;
-  text-transform: capitalize;
 }

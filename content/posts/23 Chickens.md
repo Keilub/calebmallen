@@ -1,5 +1,5 @@
 ---
-title: Auch Chickens | 23
+title: auch chickens | 23
 description: It's all Auch this week
 date:   2023-10-31 13:00:00 +0300
 image: /images/wanderway23.jpg

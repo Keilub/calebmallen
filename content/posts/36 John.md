@@ -1,5 +1,5 @@
 ---
-title: John's Elephant | 36
+title: john's elephant | 36
 description: Have you heard of Mac Barnett?
 date:   2024-03-26 13:00:00 +0300
 image: /images/wanderway36.jpg

@@ -1,5 +1,5 @@
 ---
-title:  Gnarly Five Books | 07
+title:  gnarly five books | 07
 description: Some incredible artwork and sweet stories.
 date:   2023-02-06 15:01:35 +0300
 image:  '/images/wanderway07.jpg'

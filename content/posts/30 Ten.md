@@ -1,5 +1,5 @@
 ---
-title: Ten, Nine, Fall Day | 30
+title: ten, nine, fall day | 30
 description: Sesame Street and unique books
 date:   2024-02-13 13:00:00 +0300
 image: /images/wanderway30.jpg

@@ -1,5 +1,5 @@
 ---
-title: Thunder Wanted | 43
+title: thunder wanted | 43
 description: Thought-provoking dogs, and thunderous pumpkins
 date:   2024-05-14 13:00:00 +0300
 image: /images/wanderway43.jpg

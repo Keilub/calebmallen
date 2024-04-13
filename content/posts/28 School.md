@@ -1,5 +1,5 @@
 ---
-title: School Born Today | 28
+title: school born today | 28
 description: Stanley and baby. No Such Thing
 date:   2023-12-05 13:00:00 +0300
 image: /images/wanderway28.jpg

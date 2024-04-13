@@ -1,5 +1,5 @@
 ---
-title: Extra Shirts for Fish | 37
+title: extra shirts for fish | 37
 description: Uhh... well fish should definitely, for sure, NOT wear clothing
 date:   2024-04-02 13:00:00 +0300
 image: /images/wanderway37.jpg

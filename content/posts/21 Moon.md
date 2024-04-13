@@ -1,5 +1,5 @@
 ---
-title: Catch the Moon | 21
+title: catch the moon | 21
 description: Great tales this week
 date:   2023-10-17 13:00:00 +0300
 image: /images/wanderway21.jpg

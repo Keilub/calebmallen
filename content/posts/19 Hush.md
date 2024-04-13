@@ -1,5 +1,5 @@
 ---
-title: Hush Clovis | 19
+title: hush clovis | 19
 description: Imaginative tales.
 date:   2023-10-03 13:00:00 +0300
 image: /images/wanderway19.jpg

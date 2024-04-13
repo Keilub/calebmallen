@@ -1,5 +1,5 @@
 ---
-title: Burgers with a side of Mittens | 26
+title: burgers with a side of mittens | 26
 description: Gammell and Aylesworth, a perfect match
 date:   2023-11-21 13:00:00 +0300
 image: /images/wanderway26.jpg
