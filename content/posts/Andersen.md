@@ -8,9 +8,9 @@ tags: [Paging thru Pictures]
 
 ## Hans Christian Andersen - Once Upon a Timeless Storyteller
 
-> "Andersen utilized the simple premise and structure of the fairy tale to transform his own theories regarding human nature into allegories, written in a conversational language that young audiences can both understand and enjoy."<br>
+> Andersen utilized the simple premise and structure of the fairy tale to transform his own theories regarding human nature into allegories, written in a conversational language that young audiences can both understand and enjoy.<br>
 <br>
--Encyclopedia Entry
+— Encyclopedia Entry
 
 Born on April 2, 1805, in Odense, Denmark, Andersen's family struggled financially, and his father's shoemaking business often faced difficulties. Their low socioeconomic class limited Andersen's access to material comforts and educational opportunities. Despite his father's limited means, he cherished books and shared stories, giving Hans an unconventional education. Hans declared reading as his cherished pastime in his diary; this, with his skill in listening, shaped him into the remarkable storyteller that made his mark on history.
 
@@ -18,9 +18,9 @@ His story as a writer began early in his life; Andersen moved to Copenhagen in 1
 
 ## Crafting Fairytales
 
-> "How my day goes: up at 8 o'clock and drink coffee; putter around and write until 10 o'clock; then walk up along the long, tree-lined drive and out the gate to the path through the field to Hollufgaard; look at the strait and wander back; read, sew, put things in order; and lunch at 12 o'clock with a glass of port. Then a short rest and after that, as before, an hour's walk. It is the same route, and I take a little farther out in the other direction. Read and write until around 4 o'clock, get dressed; and dinner is from 4:00 to 5:00."<br>
+> How my day goes: up at 8 o'clock and drink coffee; putter around and write until 10 o'clock; then walk up along the long, tree-lined drive and out the gate to the path through the field to Hollufgaard; look at the strait and wander back; read, sew, put things in order; and lunch at 12 o'clock with a glass of port. Then a short rest and after that, as before, an hour's walk. It is the same route, and I take a little farther out in the other direction. Read and write until around 4 o'clock, get dressed; and dinner is from 4:00 to 5:00.<br>
 <br>
--The Diary of Hans Christian Anderson
+— The Diary of Hans Christian Anderson
 
 Andersen gained recognition as a writer in 1829 when he published a short story titled "A Journey on Foot from Holmen's Canal to the East Point of Amager." He published a play, a book of poetry, and a travelogue. Thanks to a grant from the king, he got the opportunity to travel across Europe and develop his body of work. In 1835, he published The Improvisatore, a novel based on his time in Italy.
 
@@ -42,15 +42,15 @@ In his career, Andersen composed over 150 works, including fairy tales, poems, t
 
 ## Destructive Daydreamer
 
-> "I will become famous,' Andersen wrote in his diary, underscoring that his professional drive to greatness was not the polite narcissism of the restrained and well-educated. His drive to greatness ran deep in the troubled psychic waters of his soul. Early on, his patrons recognized a powerful self-confidence in Andersen. He possessed a gritty drive to perform, a marvelous soprano voice (before it cracked), a gift for telling stories, and, along with all of this, an irritating ego."<br>
+> I will become famous,' Andersen wrote in his diary, underscoring that his professional drive to greatness was not the polite narcissism of the restrained and well-educated. His drive to greatness ran deep in the troubled psychic waters of his soul. Early on, his patrons recognized a powerful self-confidence in Andersen. He possessed a gritty drive to perform, a marvelous soprano voice (before it cracked), a gift for telling stories, and, along with all of this, an irritating ego.<br>
 <br>
--Noel Daniel
+— Noel Daniel
 
 Andersen's ability to engage in positive, constructive daydreaming and his unwavering determination were two specialties that made Andersen live up to his aspirations. Despite facing the haunting effects of his lower socioeconomic status and the need to cultivate courage in the face of rejection to enter high society, Andersen found just enough motivation to persist. Denmark's favorable artistic climate during the Golden Age allowed him to secure an artist's allowance, granting him the freedom to refine his writing skills. Despite eventually gaining recognition and mingling with royalty, Andersen remained burdened by a lingering sense of inadequacy, reminiscent of his longing for belonging during his time in the spinning room.
 
-> "Andersen was forever dancing between self-assuredness and feelings of inferiority and emotional vulnerability. He never escaped feeling unequal to the royals, celebrities, and dignitaries he socialized with as his fame grew, writing in his diary, "I had and still have a feeling as though I were a poor peasant lad over whom a royal mantle is thrown."<br>
+> Andersen was forever dancing between self-assuredness and feelings of inferiority and emotional vulnerability. He never escaped feeling unequal to the royals, celebrities, and dignitaries he socialized with as his fame grew, writing in his diary, "I had and still have a feeling as though I were a poor peasant lad over whom a royal mantle is thrown.<br>
 <br>
--Noel Daniel
+— Noel Daniel
 
 <a href="https://www.themarginalian.org/2013/11/18/taschen-the-fairy-tales-ofhans-christian-andersen/"><u>The Marginalian</u></a>
 

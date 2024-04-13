@@ -38,9 +38,9 @@ Struwwelpeter was revolutionary for its innovative approach of arranging the tex
 
 ## Struwwelpeter meets modern society
 
-> "The stories feature such characters as the title character, a boy whose untamed appearance is matched by his naughty behaviour; a child who plays with matches and is burned to ashes; and a tailor who cuts off the thumbs of children who suck them. The tales in the collection are by some lights amusing and harmless and by others excessively gruesome and frightening."<br>
+> The stories feature such characters as the title character, a boy whose untamed appearance is matched by his naughty behaviour; a child who plays with matches and is burned to ashes; and a tailor who cuts off the thumbs of children who suck them. The tales in the collection are by some lights amusing and harmless and by others excessively gruesome and frightening.<br>
 <br>
--Britannica
+— Britannica
 
 In the early 19th century, attitudes changed as Struwwelpeter was criticized for its outdated approach to "disobedient" behavior and grotesque 'educational' methods. Educators believe the stories and images are too disturbing for children's entertainment. However, children have been told violent and scary stories throughout history in fables and fairytales. Dr. Hoffmann's strict upbringing may have influenced the content, but some researchers suggest Hoffmann intended it to be satirical. 
 

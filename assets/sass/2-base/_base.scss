@@ -80,11 +80,10 @@ blockquote {
   font-family: 'Heliotrope';
   font-style: italic;
   position: relative;
-  margin: 40px 0;
-  padding-left: 26px;
+  margin: 50px 0;
+  padding-left: 35px;
   font-size: 20px;
   line-height: 1.5;
-  border-left: 4px solid #5ABB71;
   color: #333333;
 
   p {
@@ -104,6 +103,16 @@ blockquote {
   @media only screen and (max-width: $mobile) {
     font-size: 20px;
   }
+}
+blockquote::before {
+  display: block;
+  padding-left: 10px;
+  content: "\201C";
+  font-size: 80px;
+  position: absolute;
+  left: -20px;
+  top: -40px;
+  color: #333333
 }
 
 pre {

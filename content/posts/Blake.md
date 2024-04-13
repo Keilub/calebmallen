@@ -12,7 +12,7 @@ Depending on who you ask or where you search, getting a clear answer on when the
 
 > And you who wish to represent by words the form of man and all the aspects of his membrification, relinquish that idea. For the more minutely you describe, the more you will confine the mind of the reader, and the more you will keep him from the knowledge of the thing described. And so it is necessary to draw and to describe.<br>
 <br>
--Leonardo da Vinci
+— Leonardo da Vinci
 
 ## Where do we begin?
 
@@ -32,16 +32,16 @@ William Blake reacted against this instructional children's literature genre in 
 
 > So it comes about that the first masterpiece of English children's literature, which is also the first great original picture book, stems from an impulse to integrate words and images within a single linear whole.<br>
 <br>
--Brian Alderson
+— Brian Alderson
 
 William Blake's Songs of Innocence exemplifies this shift to empathize with children and focus on their perspective. His peculiar visionary art style was completely new, not influenced by anything else in visual arts around that time. The significance of Songs of Innocence lies in its poetic exploration of childhood, the loss of innocence, and the underlying social critique Blake weaves throughout the collection. It continues to be celebrated as a literary work that delves into profound themes and offers insights into the human condition.
 
 ## Who was William Blake?
 
-> "He who binds to himself a joy <br>
+> He who binds to himself a joy <br>
 Does the winged life destroy <br>
 He who kisses the joy as it flies <br>
-Lives in Eternity's sunrise."<br>
+Lives in Eternity's sunrise.<br>
 <br>
 Eternity by William Blake<br>
 
@@ -81,9 +81,9 @@ In William Blake's perspective, imagination symbolized the foundation of the hum
 
 ## Imaginative Works
 
-> "So it comes about that the first masterpiece of English children's literature, which is also the first great original picture book, stems from an impulse to integrate words and images within a single linear whole."<br>
+> So it comes about that the first masterpiece of English children's literature, which is also the first great original picture book, stems from an impulse to integrate words and images within a single linear whole.<br>
 <br>
-Brian Alderson via Sing a Song for Sixpence.
+— Brian Alderson via Sing a Song for Sixpence.
 
 Blake's first collection, Poetical Sketches (1783), included verse protesting war and tyranny. In 1789 came his most famous works, Songs of Innocence, and in 1794 Songs of Experience. This collection of poems revolutionized children's literature. Unlike the moralistic and preachy tales of the time, Blake's poems celebrated the purity and joy of childhood. Through simple yet profound verses, he captured the essence of innocence, exploring themes such as imagination, playfulness, and the connection between humanity and nature. Both were printed with copper plates and finished by hand with watercolors.
 

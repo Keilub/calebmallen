@@ -44,7 +44,7 @@ Only select works
 
 <u><p style="color:#C68975;">[Oliver Twist Illustrations](https://www.charlesdickenspage.com/illustrations-twist.html)</u></p>
 
-> “Note: It has been noted that Cruikshank could not draw pretty woman, it also appears that he had trouble drawing children. The children in the Oliver Twist illustrations look like miniature adults without the defining characteristics of children, such as the disproportionately large head and soft features which make a child look like a child.”
+> Note: It has been noted that Cruikshank could not draw pretty woman, it also appears that he had trouble drawing children. The children in the Oliver Twist illustrations look like miniature adults without the defining characteristics of children, such as the disproportionately large head and soft features which make a child look like a child.
 
 ![alt text](/images/paging02-02.png)
 

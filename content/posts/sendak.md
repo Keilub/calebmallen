@@ -6,7 +6,7 @@ image: /images/sendak.jpg
 tags: [Paging thru Pictures]
 ---
 
-> "You cannot write for children. They're much too complicated. You can only write books that are of interest to them." <br>
+> You cannot write for children. They're much too complicated. You can only write books that are of interest to them. <br>
 ― Maurice Sendak
 
 Maurice Sendak firmly believed that kids are strong and can handle challenging things. He refused to sugarcoat the world for them like adults often do. Because of this quality, it made him one of the most innovative and influential storytellers of all time. He thought children are good at understanding and dealing with sad or scary things and gave us hope in dealing with those tragic and dangerous things. This idea was similar to what Tolkien said about writing not being just for kids. In his last interview, Sendak got upset with Stephen Colbert and said, "I don't write only for kids. I write because I have something to say, and people just call it 'for kids!'"
