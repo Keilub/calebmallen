@@ -30,19 +30,6 @@
 }
 
 
-a:link { 
-  text-decoration: none !important;
-} 
-a:visited { 
-  text-decoration: none !important;
-} 
-a:hover { 
-  text-decoration: none !important;
-} 
-a:active { 
-  text-decoration: none !important;
-}
-
 .post__info,{
   max-width: 760px;
   margin: 5px auto 48px;
@@ -70,8 +57,7 @@ a:active {
     margin: 4px 8px 4px 0;
     font-size: 14px;
     line-height: 1;
-    font-weight: 500;
-    text-transform: capitalize;
+    text-transform: lowercase;
     border: none;
     border-radius: 8px;
     color: var(--heading-font-color);
@@ -116,6 +102,7 @@ a:active {
     text-decoration-color: transparent;
     color: var(--heading-font-color);
     transition: text-decoration-color .35s;
+    text-transform: lowercase;
 
     &:hover {
       text-decoration-color: var(--heading-font-color);
