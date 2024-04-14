@@ -35,11 +35,11 @@ Sendak, Krauss & Ungerer have been one of many guides from the past that have in
 
 Researching and connecting with these spiritual guides have lead my own storytelling to improve and become much more interesting. Their stories and methods have inspired me this year. They have engrossed me in storytelling. I can’t wait to share these stories and questions with my readers very soon.
 
-<a href="https://www.goodreads.com/book/show/559697.Caldecott_Co_" style="color: #5ABB71"><u>Caldecott Co. by <i>Maurice Sendak</i></u></a>
+<a href="https://www.goodreads.com/book/show/559697.Caldecott_Co_">Caldecott Co. by <i>Maurice Sendak</i></a>
 
-<a href="https://www.goodreads.com/book/show/13615831-crockett-johnson-and-ruth-krauss" style="color: #5ABB71"><u>Crockett Johnson and Ruth Krauss by <i>Philip Nel</i></u></a>
+<a href="https://www.goodreads.com/book/show/13615831-crockett-johnson-and-ruth-krauss">Crockett Johnson and Ruth Krauss by <i>Philip Nel</i></a>
 
-<a href="https://www.imdb.com/title/tt1974254/" style="color: #5ABB71"><u>Far Out Isn't Far Enough: The Tomi Ungerer Story</u></a>
+<a href="https://www.imdb.com/title/tt1974254/">Far Out Isn't Far Enough: The Tomi Ungerer Story</a>
 
 <h1 style="color: #5ABB71;">Sparks</h1>
 
@@ -52,11 +52,11 @@ Researching and connecting with these spiritual guides have lead my own storytel
 > “This simple sentence, we are all the same, is the Golden Theme that all stories express.”<br>
 -Brian McDonald
 
-<a href="https://www.goodreads.com/book/show/9850058-the-golden-theme" style="color: #5ABB71"><u>The Golden Theme by <i>Brian McDonald</i></u></a>
+<a href="https://www.goodreads.com/book/show/9850058-the-golden-theme">The Golden Theme by <i>Brian McDonald</i></a>
 
-<a href="https://www.themarginalian.org/2023/12/14/jenn-shapland-thin-skin/" style="color: #5ABB71"><u>The Marginalian | Thin Skin</u></a>
+<a href="https://www.themarginalian.org/2023/12/14/jenn-shapland-thin-skin/">The Marginalian | Thin Skin</a>
 
-<a href="https://brenebrown.com/podcast/brene-on-strong-backs-soft-fronts-and-wild-hearts/" style="color: #5ABB71"><u>Brene Brown | Strong Backs Soft Fronts</u></a>
+<a href="https://brenebrown.com/podcast/brene-on-strong-backs-soft-fronts-and-wild-hearts/">Brene Brown | Strong Backs Soft Fronts</a>
 
 Just a reminder we are connected and should continue to show that grace to others.
 
@@ -70,22 +70,22 @@ Just a reminder we are connected and should continue to show that grace to other
 
 AI as a tool utilized by humans is interesting in helping uncover mysteries (AI as the product to replacing artist and writers, not so much). 
 
-<a href="https://www.nature.com/articles/d41586-023-03604-3" style="color: #5ABB71"><u>Nature | How AI is expanding Art History</u></a>
+<a href="https://www.nature.com/articles/d41586-023-03604-3">Nature | How AI is expanding Art History</a>
 
 
 <h1 style="color: #5ABB71;">3.</h1>
 
 #### You, Nicholas
-<a href="https://www.theguardian.com/film/2023/nov/03/i-didnt-get-into-movies-to-become-a-meme-nicolas-cage-on-dreams-fame-and-his-two-headed-" style="color: #5ABB71"><u>The Guardian | I Didn't get into movies to become a meme.</u></a>
+<a href="https://www.theguardian.com/film/2023/nov/03/i-didnt-get-into-movies-to-become-a-meme-nicolas-cage-on-dreams-fame-and-his-two-headed-">The Guardian | I Didn't get into movies to become a meme.</a>
 
-<a href="https://medium.com/illumination/the-3-versions-of-you-which-one-is-the-real-you-f82f1cac5a12" style="color: #5ABB71"><u>Medium | The 3 Versions of You, Which is the Real You</u></a>
+<a href="https://medium.com/illumination/the-3-versions-of-you-which-one-is-the-real-you-f82f1cac5a12">Medium | The 3 Versions of You, Which is the Real You</a>
 
 A you crafted by you, a you from them, and then its just you.
 
 <h1 style="color: #5ABB71;">4.</h1>
 
 #### Family Crest
-<a href="https://www.patagonia.com/stories/1300-miles/story-143510.html" style="color: #5ABB71"><u>Patagonia | 1300 Miles</u></a>
+<a href="https://www.patagonia.com/stories/1300-miles/story-143510.html">Patagonia | 1300 Miles</a>
 
 As someone that always idealized the idea of solo backpacking but has been slowly building a family, it’s nice to see a family taking on the task of a Pacific Coast Trek. 
 
@@ -100,9 +100,9 @@ As someone that always idealized the idea of solo backpacking but has been slowl
 “I know,” Tom said. “What does it say about us that it’s relevant every single time they ask it?<br>
 John Scalzi, The Kaiju Preservation Society
 
-<a href="https://www.goodreads.com/book/show/57693406-the-kaiju-preservation-society?ref=nav_sb_ss_1_" style="color: #5ABB71"><u>The Kaiju Preservation Society by <i>John Scalzi</i></u></a>
+<a href="https://www.goodreads.com/book/show/57693406-the-kaiju-preservation-society?ref=nav_sb_ss_1_">The Kaiju Preservation Society by <i>John Scalzi</i></a>
 
-<a href="https://www.nationalgeographic.com/science/article/young-tyrannosaurs-last-meal-gives-new-insight-dinosaur-gut-contents" style="color: #5ABB71"><u>National Geographic | Young Tyrannosaurs Last Meal Gives New Insight</u></a>
+<a href="https://www.nationalgeographic.com/science/article/young-tyrannosaurs-last-meal-gives-new-insight-dinosaur-gut-contents">National Geographic | Young Tyrannosaurs Last Meal Gives New Insight</a>
 
 It's funny how things work out sometimes. I tried reading The Kaiju Preservation Society early 2023, but I jumped off it fairly quickly. Not because I didn't enjoy it, but something just didn't resonate with me. I had my eyes on another book. But a few weeks ago I picked up the book again form my library and absolutly breezed thru the book in a day. The book personally resonated with me in a deeper way. The main character had lost their job, just as I had at that time. It was a simple feel good book that managed to hit me in a deep way right as life was hitting me in the face with some anxiety. Shortly after finishing this book, I came across an interesting article. It was about a new discovery for dinosaurs, made from the contents of a dinosaur's stomach.
 
@@ -110,33 +110,33 @@ It's funny how things work out sometimes. I tried reading The Kaiju Preservation
 
 #### Role Playing Adventures
 
->"I was so scared, I half wanted to piss myself, but the difference between the strong and the weak isn't that the strong don't piss themselves. It's that they hitch their pissy pants up after and go through with it."<br>
+>I was so scared, I half wanted to piss myself, but the difference between the strong and the weak isn't that the strong don't piss themselves. It's that they hitch their pissy pants up after and go through with it.<br>
 Christopher Buehlman, The Blacktongue Thief
 
 Big fan of fantasy... escaping can lead the mind to unexpected connections
 
-<a href="https://www.goodreads.com/book/show/55548155-the-blacktongue-thief" style="color: #5ABB71"><u>The Blacktongue Thief by Christopher Buehlman</u></a>
+<a href="https://www.goodreads.com/book/show/55548155-the-blacktongue-thief">The Blacktongue Thief by Christopher Buehlman</a>
 
 <a href="https://www.dungeonsanddaddies.com
-" style="color: #5ABB71"><u>Dungeons & Daddies</u></a>
+">Dungeons & Daddies</a>
 
-<a href="https://baldursgate3.game" style="color: #5ABB71"><u>Baldurs Gate 3</u></a>
+<a href="https://baldursgate3.game" >Baldurs Gate 3</a>
 
 
 <h1 style="color: #5ABB71;">7.</h1>
 
 #### Anxiety & Mystery
 
-> “It means no matter how far you’re thinking or your actions, or your reactions, no matter how far out it is. It is still not far enough, because one challenge, if it’s worthy at all, has to be followed by a greater challenge and it is the unknown, that’s what’s so fantastic about death, and that’s why death has to be welcomed and when ‘I’ die, I’ll find out what’s behind that far out.” <br>
+> It means no matter how far you’re thinking or your actions, or your reactions, no matter how far out it is. It is still not far enough, because one challenge, if it’s worthy at all, has to be followed by a greater challenge and it is the unknown, that’s what’s so fantastic about death, and that’s why death has to be welcomed and when ‘I’ die, I’ll find out what’s behind that far out. <br>
 -Tomi Ungerer
 
-It’s funny what we gravitate towards that ultimately is exactly the we need in our lives. I'm writing a story on fear of the unknown and the anxieties it brings. I found myself diving into two drastically different shows. <a href="https://www.imdb.com/title/tt14452776/" style="color: #5ABB71"><u>The Bear</u></a> overwhelms every sense and inch of mind with anxiety and the unknown. <a href="https://www.imdb.com/title/tt1466074/?ref_=fn_al_tt_1" style="color: #5ABB71"><u>Columbo</u></a> tells you the end but leaves you clueless about how we get there. Both shows are impeccable storytelling that dabbles in the unknowns and its anxiety.
+It’s funny what we gravitate towards that ultimately is exactly the we need in our lives. I'm writing a story on fear of the unknown and the anxieties it brings. I found myself diving into two drastically different shows. <a href="https://www.imdb.com/title/tt14452776/">The Bear</a> overwhelms every sense and inch of mind with anxiety and the unknown. <a href="https://www.imdb.com/title/tt1466074/?ref_=fn_al_tt_1">Columbo</a> tells you the end but leaves you clueless about how we get there. Both shows are impeccable storytelling that dabbles in the unknowns and its anxiety.
 
 <h1 style="color: #5ABB71;">8.</h1>
 
 #### Climbing Mysteries 
 
-<a href="https://dont-nod.com/en/games/jusant/" style="color: #5ABB71"><u>Jusant</u></a>
+<a href="https://dont-nod.com/en/games/jusant/">Jusant</a>
 
 Has been a great meditative experience of climbing a mysterious mountain in a ravaged land. 
 
@@ -144,7 +144,7 @@ Has been a great meditative experience of climbing a mysterious mountain in a ra
 
 #### Tell it to the Bees 
 
-<a href="https://daily.jstor.org/telling-the-bees/" style="color: #5ABB71"><u>JSTOR | Telling the Bees</u></a>
+<a href="https://daily.jstor.org/telling-the-bees/">JSTOR | Telling the Bees</a>
 
 Stumbled upon a comment talking about this concept one morning while roaming the web. An interseting tale of the bees and telling your secrets to the universe. 
 
@@ -152,11 +152,11 @@ Stumbled upon a comment talking about this concept one morning while roaming the
 
 #### Things from the Shore leading to the Deep
 
-<a href="https://publicdomainreview.org/essay/the-city-that-fell-off-a-cliff/" style="color: #5ABB71"><u>Public Domain Review | The City That Fell off a Cliff</u></a>
+<a href="https://publicdomainreview.org/essay/the-city-that-fell-off-a-cliff/">Public Domain Review | The City That Fell off a Cliff</a>
 
-<a href="https://hakaimagazine.com/features/drawing-the-deep-sea-from-a-seat-on-the-shore/" style="color: #5ABB71"><u>Hakai Magazine | Drawing the Deep Sea from the Seat on the Shore</u></a>
+<a href="https://hakaimagazine.com/features/drawing-the-deep-sea-from-a-seat-on-the-shore/">Hakai Magazine | Drawing the Deep Sea from the Seat on the Shore</a>
 
-<a href="https://www.atlasobscura.com/articles/into-the-deep-the-journey-to-bring-amazing-deep-sea-animals-to-the-surface" style="color: #5ABB71"><u>Atlas Obscura | Deep in the Journey to Bring Amazing Deep Sea Animals to the Surface</u></a>
+<a href="https://www.atlasobscura.com/articles/into-the-deep-the-journey-to-bring-amazing-deep-sea-animals-to-the-surface">Atlas Obscura | Deep in the Journey to Bring Amazing Deep Sea Animals to the Surface</a>
 
 It is astounding what the mind creates during times of things falling apart, stories of humans experiecing this sublime feeling as things begin to fall and then the stories after the fall of things continuing deep beneath that leads to discovery.
 

@@ -25,4 +25,4 @@ Thank you for stopping by,<br>
 <br>
 -Caleb
 
-Oh! How could I forget, we also are parents to two lovely pets, a <a href="/maple/" ><u>dog</u></a> and a <a href="/sushi/"><u>cat</u></a>!
+Oh! How could I forget, we also are parents to two lovely pets, a <a href="/maple/" >dog</a> and a <a href="/sushi/">cat</a>!

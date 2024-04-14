@@ -14,16 +14,16 @@ Maurice Sendak firmly believed that kids are strong and can handle challenging t
 ## Early Life and Wild Inspirations
 Maurice Bernard Sendak was born to Polish-Jewish immigrants in Brooklyn, New York. Growing up during the Great Depression, Sendak's childhood was marked by joy and tragedy, which would later shape his artistic sensibilities. His parents, Philip and Sadie Sendak, fostered a love for books and storytelling, and their nurturing environment ignited Sendak's passion for drawing and writing at an early age.
 
-<u>[Pathos: Maurice Sendak](https://web.archive.org/web/20100523022948/http://www.patheos.com/Resources/Additional-Resources/Maurice-Sendak.html)</u>
+[Pathos: Maurice Sendak](https://web.archive.org/web/20100523022948/http://www.patheos.com/Resources/Additional-Resources/Maurice-Sendak.html)
 
 Sendak's early influences came from a variety of sources. He found inspiration in the works of his favorite illustrators, including Beatrix Potter and William Blake, and the dark and eerie tales of the Brothers Grimm. Sendak's childhood experiences, including losing family members during the Holocaust, also influenced his work.
 
-<u>[Smithsonian: Maurice Sendak Imagined More Than Wild Things](https://www.smithsonianmag.com/smart-news/columbus-art-museum-hosts-wild-things-creator-maurice-sendak-retrospective-180981042/)</u>
+[Smithsonian: Maurice Sendak Imagined More Than Wild Things](https://www.smithsonianmag.com/smart-news/columbus-art-museum-hosts-wild-things-creator-maurice-sendak-retrospective-180981042/)
 
 ## A Rumpus
 After studying at the Art Students League of New York, Sendak embarked on a career as an illustrator. His breakthrough came in 1951 when he collaborated with Ruth Krauss on the picture book "A Hole Is to Dig." This whimsical and unconventional book, filled with charming illustrations and playful language, was a departure from the traditional children's books of the time.
 
-<u>[The Art Students League](https://www.glenwoodnyc.com/manhattan-living/nyc-art-students-league-new-york/)</u>
+[The Art Students League](https://www.glenwoodnyc.com/manhattan-living/nyc-art-students-league-new-york/)
 
 In 1963, Sendak achieved worldwide fame by publishing his most iconic work, "Where the Wild Things Are." This imaginative tale, with its lush illustrations and a truthful portrayal of childhood emotions, revolutionized the genre of children's literature. The book went on to win the prestigious Caldecott Medal.
 
@@ -32,9 +32,9 @@ Maurice Sendak's contributions to children's literature extend far beyond his bo
 
 In addition to his books, Sendak also ventured into other creative endeavors. He designed sets and costumes for various theater productions, including an acclaimed production of Tchaikovsky's ballet "The Nutcracker." His imaginative and visually striking designs brought a fresh perspective to these performances.
 
-<u>[Drawing the Curtain](https://www.gardnermuseum.org/drawing-curtain-maurice-sendaks-designs-opera-and-ballet)</u> 
+[Drawing the Curtain](https://www.gardnermuseum.org/drawing-curtain-maurice-sendaks-designs-opera-and-ballet)
 
-<u>[Tchaikovsky's ballet "The Nutcracker."](https://www.parentmap.com/article/sendak-stowell-and-the-history-of-pnbs-unique-nutcracker)</u>
+[Tchaikovsky's ballet "The Nutcracker."](https://www.parentmap.com/article/sendak-stowell-and-the-history-of-pnbs-unique-nutcracker)
 
 ![alt text](/images/sendak-01.jpg)
 
@@ -104,13 +104,13 @@ The heart is the same in both stories. A child who has never had a birthday gets
 <br>
 <h style="color:#C68975;">★</h> *= a favorite from this selection of books written and illustrated by Sendak.*
 
-## More articles Sendak
+## More Articles Sendak
 
-<u>[New Yorker - Among the Wild Things](https://www.newyorker.com/magazine/1966/01/22/among-the-wild-things)</u>
+[New Yorker - Among the Wild Things](https://www.newyorker.com/magazine/1966/01/22/among-the-wild-things)
 
-<u>[Financial Times: Where the Wild Things Came From: What Inspired Maurice Sendak?](https://www.ft.com/content/253bd26a-b82d-11e9-8a88-aa6628ac896c)</u>
+[Financial Times: Where the Wild Things Came From: What Inspired Maurice Sendak?](https://www.ft.com/content/253bd26a-b82d-11e9-8a88-aa6628ac896c)
 
-<u>[The Marginalian: Maurice Sendak Juniper Tree Brothers Grim](https://www.themarginalian.org/2015/04/29/maurice-sendak-juniper-tree-brothers-grimm/)</u>
+[The Marginalian: Maurice Sendak Juniper Tree Brothers Grim](https://www.themarginalian.org/2015/04/29/maurice-sendak-juniper-tree-brothers-grimm/)
 
 <br>
 Thank you,<br>

@@ -38,7 +38,7 @@ It may be challenging for modern readers to envision how different Andersen's ta
 
 In his career, Andersen composed over 150 works, including fairy tales, poems, travelogues, and novels. These pieces continue to be adapted into plays, films, and animations worldwide. More than just fairy tales, Hans Christian Andersen infused his writing with imagination and empathy. Nowadays, he is celebrated as one of literature's greatest storytellers - and his stories remain beloved by adults and children.
 
-<a href="https://www.newworldencyclopedia.org/entry/Hans_Christian_Andersen#Naming_conventions"><u>NewWorldEncyclopedia.org</u></a>
+<a href="https://www.newworldencyclopedia.org/entry/Hans_Christian_Andersen#Naming_conventions">NewWorldEncyclopedia.org</a>
 
 ## Destructive Daydreamer
 
@@ -52,9 +52,9 @@ Andersen's ability to engage in positive, constructive daydreaming and his unwav
 <br>
 — Noel Daniel
 
-<a href="https://www.themarginalian.org/2013/11/18/taschen-the-fairy-tales-ofhans-christian-andersen/"><u>The Marginalian</u></a>
+<a href="https://www.themarginalian.org/2013/11/18/taschen-the-fairy-tales-ofhans-christian-andersen/">The Marginalian</a>
 
-<a href="https://www.chicagotribune.com/news/ct-xpm-2001-05-20-0105190030-story.html"><u>Chicago Tribune</u></a>
+<a href="https://www.chicagotribune.com/news/ct-xpm-2001-05-20-0105190030-story.html">Chicago Tribune</a>
 
 ![alt text](/images/paging04-01.jpg)
 
@@ -88,19 +88,19 @@ I enjoy the narrative difference (with this narrator directly talking to the rea
 
 More Articles on Anderson
 
-<a href="https://www.gale.com/intl/databases-explored/literature/hans-christian-andersen"><u>Gale</u></a>
+<a href="https://www.gale.com/intl/databases-explored/literature/hans-christian-andersen">Gale</a>
 
-<a href="https://www.britannica.com/biography/Hans-Christian-Andersen-Danish-author"><u>Britannica</u></a>
+<a href="https://www.britannica.com/biography/Hans-Christian-Andersen-Danish-author">Britannica</a>
 
-<a href="https://www.dw.com/en/the-fairy-tale-world-of-hans-christian-andersen/a-58109449"><u>DW</u></a>
+<a href="https://www.dw.com/en/the-fairy-tale-world-of-hans-christian-andersen/a-58109449">DW</a>
 
-<a href="https://www.terriwindling.com/mythic-arts/hca.html" ><u>Terriwindling</u></a>
+<a href="https://www.terriwindling.com/mythic-arts/hca.html" >Terriwindling</a>
 
-<a href="https://andersen-award.com/about-hc-a/"><u>Andersen Award</u></a>
+<a href="https://andersen-award.com/about-hc-a/">Andersen Award</a>
 
-<a href="https://www.themarginalian.org/2013/11/18/taschen-the-fairy-tales-ofhans-christian-andersen/"><u>The Marginalian: The Fairy Tales of Hans</u></a>
+<a href="https://www.themarginalian.org/2013/11/18/taschen-the-fairy-tales-ofhans-christian-andersen/">The Marginalian: The Fairy Tales of Hans</a>
 
-<a href="https://www.nysoclib.org/blog/poet-bizarre-hans-christian-andersen-he-was-just-kids"><u>NY Soc Lib</u></a>
+<a href="https://www.nysoclib.org/blog/poet-bizarre-hans-christian-andersen-he-was-just-kids">NY Soc Lib</a>
 
 
 ***

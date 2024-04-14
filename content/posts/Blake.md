@@ -49,11 +49,11 @@ William Blake was born on November 28, 1757, in London's Soho district, England.
 
 From a young age, Blake began having visions. His friend and journalist Henry Crabb Robinson recounted that when Blake was four years old, he saw God's head appear in a window. He also reportedly saw the prophet Ezekiel under a tree and envisioned "a tree filled with angels." At four years old, according to his wife Catherine, Blake first saw God. Peter Ackroyd reported that Biblical imagery 'overawed' him. He set out to share such visions when he became an engraver, artist, and poet. In a poem, he declared his goal was to "open the Eternal Worlds" and "open the immortal Eyes of man."
 
-<a href="https://www.britannica.com/biography/William-Blake" ><u>Britannica</u></a>
+<a href="https://www.britannica.com/biography/William-Blake" >Britannica</a>
 
-<a href="https://www.william-blake.org/biography.html"><u>WilliamBlake.org</u></a>
+<a href="https://www.william-blake.org/biography.html">WilliamBlake.org</a>
 
-<a href="https://www.metmuseum.org/toah/hd/blke/hd_blke.htm"><u>Met Museum</u></a>
+<a href="https://www.metmuseum.org/toah/hd/blke/hd_blke.htm">Met Museum</a>
 
 During his youth, Blake showed a strong artistic talent. At age 10, he started attending Henry Pars' drawing school, where he practiced sketching the human figure by copying from plaster casts of ancient statues. He then went on to apprentice with an engraver at the age of 14, whose master was the engraver for the London Society of Antiquaries. Blake was later sent to Westminster Abbey to create drawings of tombs and monuments, which sparked his lifelong love for Gothic art.
 
@@ -61,23 +61,23 @@ Around the same time, Blake began collecting prints of artists who had fallen ou
 
 ## Eternal Imagination
 
-<a href="https://www.layersoflondon.org/map/records/william-blake-s-vision-of-angels-on-peckham-rye-park"><u>Layers of London</u></a>
+<a href="https://www.layersoflondon.org/map/records/william-blake-s-vision-of-angels-on-peckham-rye-park">Layers of London</a>
 
 In the industrial age, few saw beyond the physical aspects of reality. Blake's 'Newton' (1795-1805) captures this: Newton draws a circle on the seabed with his compass, focusing on what's measurable. For Blake, this mentality trapped within the "epicycles of thought" induces "Single vision and Newton's sleep." Many of Blake's contemporaries regarded him as eccentric or mad. But a different mood prevails today. Civilization itself can feel as if it teeters on the brink. Blake's critique of 'dark Satanic Mills' now appears prophetic; his advocacy of the need for 'Mental Fight' to liberate the imagination sounds like a calling.
 
 Blake believed the human imagination could reveal truths of existence, turning everyday experience into a revolution. He sought a 'fourfold vision' and claimed when he watched the sunrise, he saw an innumerable company of angelic hosts crying, "Holy, holy, holy."
 
-<a href="https://bq.blakearchive.org/19.4.groves"><u>Blake Archive</u></a>
+<a href="https://bq.blakearchive.org/19.4.groves">Blake Archive</a>
 
 In William Blake's perspective, imagination symbolized the foundation of the human spirit, a crucial element of our existence, and an endless wellspring of magnificence. According to Blake, the ability of imagination to surpass and alleviate the limitations of our nature could only be achieved through a connection with nobility and truth. 
 
-<a href="https://aeon.co/essays/what-we-can-learn-from-william-blakes-visionary-imagination" ><u>Aeon.co:What We Can Learn From Blakes Visionary Imagination</u></a>
+<a href="https://aeon.co/essays/what-we-can-learn-from-william-blakes-visionary-imagination" >Aeon.co:What We Can Learn From Blakes Visionary Imagination</a>
 
-<a href="https://www.faena.com/aleph/a-letter-from-the-young-william-blake-in-defense-of-the-imagination" ><u>Faena.com: Letter from the Young William Blake</u></a>
+<a href="https://www.faena.com/aleph/a-letter-from-the-young-william-blake-in-defense-of-the-imagination" >Faena.com: Letter from the Young William Blake</a>
 
-<a href="https://www.faena.com/aleph/imagination-as-the-pillar-of-the-spirit"><u>Faena.com: Imagination as the Pillar of Spirit</u></a>
+<a href="https://www.faena.com/aleph/imagination-as-the-pillar-of-the-spirit">Faena.com: Imagination as the Pillar of Spirit</a>
 
-<a href="https://www.redpepper.org.uk/streets-of-the-imagination/"><u>Redpepper.org: Streets of Imagination</u></a>
+<a href="https://www.redpepper.org.uk/streets-of-the-imagination/">Redpepper.org: Streets of Imagination</a>
 
 ## Imaginative Works
 
@@ -135,19 +135,19 @@ These three poems are engaging and thought-provoking. The pair's images evoke a 
 
 ##### More articles on William Blake
 
-<a href="https://www.poetryfoundation.org/poets/william-blake" ><u>Poetry Foundation</u></a>
+<a href="https://www.poetryfoundation.org/poets/william-blake" >Poetry Foundation</a>
 
-<a href="https://daily.jstor.org/william-blake-radical-abolitionist/" ><u>JSTOR: William Blake Radical Abolitionist</u></a>
+<a href="https://daily.jstor.org/william-blake-radical-abolitionist/" >JSTOR: William Blake Radical Abolitionist</a>
 
-<a href="https://www.classical-music.com/features/articles/william-blake-poet/"><u>ClassicalMusic.com</u></a>
+<a href="https://www.classical-music.com/features/articles/william-blake-poet/">ClassicalMusic.com</a>
 
-<a href="https://www.nytimes.com/2022/05/03/books/review/william-blake-vs-the-world-john-higgs.html"><u>NY Times: William Blake vs the World</u></a>
+<a href="https://www.nytimes.com/2022/05/03/books/review/william-blake-vs-the-world-john-higgs.html">NY Times: William Blake vs the World</a>
 
-<a href="https://www.masterclass.com/articles/william-blake-art" ><u>MasterClass.com</u></a>
+<a href="https://www.masterclass.com/articles/william-blake-art" >MasterClass.com</a>
 
-<a href="http://www.thehypertexts.com/William%20Blake%20Influence%20References%20Popular%20Culture.htm" ><u>TheHyperTexts.com</u></a>
+<a href="http://www.thehypertexts.com/William%20Blake%20Influence%20References%20Popular%20Culture.htm" >TheHyperTexts.com</a>
 
-<a href="https://cemeteryclub.wordpress.com/2018/08/14/tombstone-for-a-long-neglected-grave/"><u>CemetryClub: Tombstone for a long Neglected Grave</u></a>
+<a href="https://cemeteryclub.wordpress.com/2018/08/14/tombstone-for-a-long-neglected-grave/">CemetryClub: Tombstone for a long Neglected Grave</a>
 
 ***
 
